@@ -1,0 +1,858 @@
+[0.00 → 3.64] there hits a point where it's just, I know things.
+[3.94 → 5.76] And so the I've never left that phase.
+[6.80 → 9.44] The learning phase of the I know everything already.
+[9.44 → 34.46] This is Welcome to the Narthex, a weekly podcast from Langley Emanuel Christian Reformed Church.
+[35.02 → 38.28] The Narthex is the gathering place between the sanctuary and the world outside.
+[38.28 → 41.56] For the curious to journey in and for the disciple to journey out.
+[42.10 → 45.50] Whether you're a member of our church family or just peeking in for the first time,
+[45.94 → 49.76] we're here to continue the conversation, explore ideas, and build connections.
+[50.26 → 52.32] No frills, just real talk about faith.
+[52.80 → 56.60] Welcome to the Narthex, where faith meets real life, one conversation at a time.
+[60.84 → 68.26] Hello everyone, welcome to the Narthex, a podcast put on by the pastoral staff here at Langley Emanuel CRC.
+[68.28 → 70.14] Where we look at faith and God and culture.
+[70.46 → 73.24] And at this point in time, we're looking at Romans.
+[73.98 → 75.08] My name is Kevin Robert.
+[75.14 → 77.78] I'm the youth pastor here at Langley Emanuel CRC.
+[77.90 → 82.66] And I am with two lovely gentlemen who are sitting to my left and to my right.
+[82.74 → 84.54] Who wants to introduce themselves first?
+[85.42 → 86.24] I'm Joshua.
+[86.24 → 89.20] I'm the Young Adult Ministry Coordinator here.
+[90.06 → 93.52] And that must mean I'm Chris, and I'm lead pastor here.
+[94.10 → 103.18] We're here again to hang out and to chat with each other about primarily this past Sunday's sermon that Pastor Chris led us in.
+[103.86 → 107.72] Looking at Romans 13.
+[107.90 → 108.24] 14?
+[108.62 → 109.00] 14.
+[109.38 → 111.84] The first 13 verses of Romans 14.
+[112.52 → 113.24] Yeah, you know what?
+[113.48 → 114.14] We'll get into that.
+[114.20 → 115.40] But yeah, it was the first 12 verses.
+[115.62 → 117.36] Maybe it should have been the first 13 verses.
+[117.70 → 117.88] Okay.
+[118.16 → 120.62] That's one thing I'm preaching next week.
+[120.66 → 121.68] So I've been looking at the text.
+[121.90 → 124.10] And anyway, that doesn't really matter.
+[125.08 → 128.10] Before we get into that, though, gentlemen, what were you up to this weekend?
+[129.84 → 130.20] Ooh.
+[131.48 → 134.82] I went to a bachelor party with a friend of mine from high school.
+[135.34 → 136.50] There was a bunch of people there.
+[136.64 → 137.28] It was at a cabin.
+[137.66 → 139.22] We went to Korean barbecue after.
+[139.52 → 139.66] Nice.
+[139.66 → 140.76] Was it like a whole weekend affair?
+[141.06 → 141.30] Yeah.
+[142.12 → 142.40] Yeah.
+[142.72 → 145.28] It was like Friday night to Sunday morning.
+[145.28 → 146.40] But I didn't go.
+[146.80 → 149.48] I only stayed Friday night and Saturday till dinner.
+[150.00 → 150.30] Oh, okay.
+[150.34 → 150.46] Yeah.
+[150.56 → 151.88] Because I did see you in church on Sunday.
+[152.10 → 152.26] Yeah.
+[152.36 → 152.98] Good work, Josh.
+[153.58 → 153.98] Oh, was it good?
+[154.06 → 154.48] Fun times?
+[154.96 → 155.52] It was great.
+[155.86 → 156.32] Korean barbecue.
+[156.40 → 160.20] All you can eat Korean barbecue for two hours is phenomenal.
+[160.80 → 161.96] That does sound phenomenal.
+[162.28 → 165.32] It's just they just keep bringing you plates of meat.
+[165.64 → 165.88] Yeah.
+[165.88 → 167.86] And it's, yeah.
+[167.96 → 170.98] My one experience with that was they said it was a four-course meal.
+[171.92 → 175.20] And then after the fourth plate of meat came, they said, all right, that's the first course.
+[175.36 → 179.02] And so it ended up like in my mind, it was like a 16 course meal of meat.
+[180.34 → 180.70] Yeah.
+[180.70 → 186.70] It's a wild affair because like it just, you just order what you want.
+[186.96 → 190.90] And then like there's just this table in the middle of the restaurant that you can just go grab stuff off of.
+[191.06 → 192.24] And there was like crab legs.
+[192.90 → 193.26] Yeah.
+[193.50 → 196.00] And it was just like, this is the why am I not here more?
+[196.40 → 198.56] The reason for that is because you have to drive into Richmond.
+[198.94 → 200.14] But yeah.
+[200.30 → 204.92] Well, and because I think you probably shouldn't eat that much regularly.
+[206.30 → 206.70] Yeah.
+[206.98 → 207.80] It's a fair point.
+[208.06 → 208.78] It's also expensive.
+[208.78 → 212.52] I mean, that's part of why you shouldn't do it that much regularly.
+[213.72 → 214.48] Chris, what about you?
+[214.52 → 215.36] What were you up to this weekend?
+[216.24 → 217.96] I had a perfect weekend, actually.
+[218.08 → 223.64] It was a full weekend, but we're kind of just in the season of life where everything is full and the time of year when everything is full.
+[223.64 → 228.18] Um, but last week was my birthday.
+[228.58 → 231.90] Actually, I turned 41 years young.
+[232.06 → 239.54] Um, on Thursday, actually, I woke up on Friday with a kink in my neck and I went, Oh, I'm definitely on the downward slope.
+[239.64 → 239.80] Yep.
+[239.80 → 240.32] Here you go.
+[240.46 → 240.66] Yeah.
+[240.80 → 242.68] And I couldn't, I couldn't get rid of it all day long.
+[242.68 → 244.60] How does it feel to have peaked, Chris?
+[245.12 → 245.46] Yeah.
+[245.54 → 246.86] You know, I'm, that's what I mean.
+[246.88 → 247.78] I'm on the downward slope.
+[248.32 → 249.76] I'm still trying to cope with that.
+[250.10 → 250.80] Not like me and Josh.
+[250.84 → 251.28] Right, Josh?
+[251.28 → 259.50] Um, that was awkward because you guys are further apart than you wanted to be.
+[260.82 → 261.82] I stand by it.
+[262.90 → 277.06] Um, but I, on Friday night, I had a little bit of a birthday gathering with some friends and came over, and we just hung out and, and had some good food and some drinks and laughed a lot and chatted.
+[277.26 → 278.40] And it was a good night.
+[278.50 → 279.04] It was a lot of fun.
+[279.04 → 285.78] Um, and then after the, the fullness of the weekend, um, my mother-in-law is actually visiting from Ontario.
+[285.78 → 288.32] So yesterday I went to Vancouver to pick her up.
+[288.82 → 291.02] Um, so that kind of rounded out my weekend.
+[291.22 → 291.48] Nice.
+[291.76 → 291.96] Yeah.
+[292.16 → 293.42] Fun with family and friends.
+[293.88 → 294.90] Sounds like a good weekend.
+[295.18 → 295.72] How about you, Kevin?
+[296.06 → 298.48] Uh, we had, uh, a bunch of baseball.
+[298.64 → 299.78] Of course we play on the church team.
+[299.80 → 300.62] So that happened Saturday.
+[300.92 → 303.56] Um, my kids play, uh, as well.
+[303.56 → 305.26] So I went to a couple of those games.
+[306.10 → 308.96] Um, yesterday was a lot of homework.
+[309.04 → 312.48] And a little bit of painting and a little bit of watching the Oilers win.
+[312.48 → 315.18] And so, I mean, it ended really, really well.
+[315.78 → 316.14] Yeah.
+[316.26 → 317.04] No, it was a good weekend.
+[317.18 → 318.70] We'd add a bunch of youth stuff too, in a good way.
+[318.72 → 319.52] We can get into that later.
+[319.52 → 323.48] Um, so it was a full yet good weekend for sure.
+[324.96 → 329.40] Um, also part of my weekend was coming to church on Sunday and hearing an absolute banger
+[329.40 → 329.96] of a sermon.
+[330.32 → 334.42] Chris, why don't you give us a bit of an overview of what you chatted about on Sunday?
+[335.08 → 335.48] Absolutely.
+[335.48 → 341.10] So, um, Romans 14 and where we read was verse 1 to 12.
+[341.22 → 345.76] Although we did pick up from pieces outside that text to make sense of it because Romans
+[345.76 → 353.62] 14 and 15 textually are kind of one big unit, um, that has smaller parts in it.
+[353.62 → 361.24] And so, uh, we had to make the decision to take on, um, as much as we could handle.
+[361.24 → 368.98] And it is actually already like, um, I think I, I preached for like 43 minutes on Sunday, um,
+[368.98 → 372.14] which is the longer side of my normal preaching time.
+[372.14 → 380.60] So, um, but we started in the first 12 verses reading together, um, and Romans 14, for those
+[380.60 → 386.90] of you who aren't familiar, or just as a quick reminder, uh, is where Paul talks about living
+[386.90 → 392.10] together in community with, uh, the weak and the strong Christian.
+[392.30 → 394.82] Those are the language, that's the language that he uses.
+[395.70 → 399.68] Um, and you, you did a good job because I mean, obviously we need to define what that
+[399.68 → 403.92] means, um, because it's easy to read that with our English eyes and assume some things
+[403.92 → 404.22] there.
+[404.22 → 404.78] Yeah.
+[404.96 → 411.52] And so the, the weak and the strong Christian there is not necessarily about weak faith
+[411.52 → 412.74] versus strong faith.
+[412.74 → 418.50] That is not necessarily about having doubts or lacking in trust for God and then having
+[418.50 → 422.06] no doubts and having all the trust in what God is doing.
+[422.24 → 426.04] Um, it's more on a, on a continuum of maturity.
+[426.04 → 433.30] And so on the one end you have the, the weak person who is, uh, less mature in their faith.
+[433.54 → 438.12] And you have the strong Christian who is experiencing more maturity.
+[438.12 → 444.66] And, um, the way that we put that on Sunday is that that movement of maturity is allowing
+[444.66 → 449.72] the truth of the gospel to sink down deep into every aspect of your life.
+[449.72 → 454.90] I think that was a really helpful definition too, because I think oftentimes this is synonymous,
+[454.90 → 460.88] but not always, it's not necessarily the person who has been the Christian, the longest, who
+[460.88 → 464.66] is the most mature or the person who has been the Christian, the least amount of time that
+[464.66 → 465.50] is the weakest.
+[466.30 → 470.34] Though, like I said, that can be synonymous in many, many cases.
+[470.88 → 473.32] Um, but it's, it's, it's more about how rooted is.
+[473.48 → 473.98] That's right.
+[474.06 → 477.68] You know, this doctrine, this gospel truth of Jesus is life, death, and resurrection in their
+[477.68 → 477.90] hearts.
+[477.90 → 479.94] And how is that playing out in their lives?
+[479.94 → 484.40] Well, and to that point, I think that's actually a helpful thing to think about.
+[484.72 → 494.74] Um, because here you have like, you can be a Christian your entire lives in name, right?
+[494.82 → 500.36] Um, but not have let the, the truth of the gospel sink down deep.
+[500.36 → 509.36] And so in the language of this sermon, um, it is easier in some senses to have very strict
+[509.36 → 515.10] boundaries and very high fences and very well-defined walls, for instance.
+[515.64 → 522.60] Um, but the, the process of maturity of growing in the grace and knowledge of our Lord and Saviour,
+[522.60 → 526.12] Jesus Christ is understanding what it means.
+[526.12 → 530.50] Like when Paul says in Galatians, it is for freedom that Christ has set you free.
+[531.42 → 531.88] Right?
+[531.96 → 540.64] And so this journey of understanding what our freedom in Christ looks like, um, actually
+[540.64 → 542.72] can be quite a, a challenging one.
+[543.18 → 545.20] Josh, give me a what's compelling about that to you?
+[545.98 → 552.40] So something a member of our church said a long time ago was when God freed the Israelites
+[552.40 → 559.66] from Egypt, he freed them from slavery, but then he freed them to worship him in the garden.
+[559.66 → 566.70] And so freedom isn't just like you're saying the, the ability to now in Christ, do whatever
+[566.70 → 572.50] I want, but I now have the freedom to obey God in helping the other brother and sister
+[572.50 → 577.30] in my life to be able to help them grow in relationship with him.
+[577.30 → 582.94] Because if I'm not doing that, if I'm taking my freedoms on for myself and acting selfishly,
+[583.06 → 591.94] then it is, it could cause my choices could be a stumbling block to their walk with Christ.
+[592.68 → 592.76] Yeah.
+[592.90 → 596.30] And that maybe is a perfect segue because it starts off, of course, your sermon and
+[596.30 → 599.48] this text talking about those who are strong in their faith and weak in their faith.
+[599.54 → 603.66] But then it, it starts to give examples and show how this plays out in community.
+[603.66 → 604.38] Yeah.
+[605.28 → 613.06] And so like the, the thrust, I think of this text, um, takes us in a direction that kind
+[613.06 → 620.50] of says like living in the Lord, living in the truth of the gospel requires us to mature
+[620.50 → 626.32] in our faith, requires us to move from where we are found in Jesus to where we are going
+[626.32 → 627.12] with Jesus.
+[627.68 → 633.42] Um, and for those of us then who are part of the body, who are in the church, it also requires
+[633.42 → 635.54] us to journey with people together.
+[635.54 → 635.80] Right.
+[635.80 → 641.16] So to come alongside them where they're at and to encourage that kind of maturation.
+[641.94 → 651.84] Um, and to do that, Paul, uh, in, in this text situates us in, um, with some, with some
+[651.84 → 659.54] practical skills on how to, uh, walk alongside people, not in judgment, but in calling for
+[659.54 → 660.08] their growth.
+[660.08 → 664.98] And he does that under the banner of these things that are, that he uses language of
+[664.98 → 666.34] disputable matters.
+[666.90 → 668.82] Uh, and that's the NIV translation.
+[669.00 → 672.90] There are other translations of, of those two Greek words there.
+[673.10 → 682.10] Um, and it's in this area of disputable matters that he provides some examples of, um, of what
+[682.10 → 682.90] that can look like.
+[682.90 → 688.94] And, um, um, one of the examples he gives there is, um, one person says they can eat
+[688.94 → 689.52] anything.
+[689.64 → 691.90] Another person says they can eat only vegetables.
+[692.38 → 692.90] Right.
+[692.94 → 694.92] And so this is a, a tie back.
+[694.92 → 701.78] It seems to some of the, uh, Jewish dietary restrictions that were given in the Levitical
+[701.78 → 705.14] codes for the people and how they ought to live.
+[705.14 → 714.12] And, um, recognizing that, you know, Jesus has come and made all foods clean or declared
+[714.12 → 715.16] all foods clean.
+[715.16 → 718.48] And then we have the vision of Peter that descends.
+[718.48 → 718.76] Yeah.
+[719.12 → 724.86] This is maybe an oversimplification, but it's really contrasting, you know, those, the Messianic
+[724.86 → 728.56] Jews who have come to Christ, who have been living with this sort of guidelines and rules
+[728.56 → 734.00] and law, Levitical law, and then the Gentiles who have come to Christ, who haven't lived that
+[734.00 → 734.46] way ever.
+[734.64 → 737.74] And then the, the conflicts that might've been arising with those two groups.
+[737.96 → 738.06] Yeah.
+[738.28 → 742.28] Well, and, and in some cases, like in, so in this case, that's true, right?
+[742.30 → 747.48] Like on the one hand, you've got the, the, the Gentiles who are, um, coming into this new
+[747.48 → 752.76] experience alongside of the Jews who are being transformed by having met Jesus as Messiah.
+[752.90 → 757.36] And, and they're both discerning how to live out their obedience and in, in response
+[757.36 → 757.82] to that.
+[757.82 → 758.06] Right.
+[758.06 → 765.64] And the Jews have come shaped, come shaped by their lifelong history under these Levitical
+[765.64 → 766.14] codes.
+[766.14 → 774.00] And, and Paul is basically saying like maturity gets you to the place where you can eat anything,
+[774.00 → 777.56] but like recognize that people are on this journey.
+[778.10 → 778.12] Yeah.
+[778.12 → 785.98] And it's also the not something another friend of mine pointed out was that it's not
+[785.98 → 791.38] specifically stating which of the two ideas is the mature or the strong or the weak faith,
+[791.38 → 798.66] because you've also got the idea of if the one who is the mature one who has, you can eat
+[798.66 → 804.06] all things, you're not restricted, but it's not treating their brother properly, is not helping
+[804.06 → 810.48] them in the way we are supposed to, then they are also of weak faith because they're not
+[810.48 → 815.26] operating in that communal standard because they're holding to this idea, no, I can do
+[815.26 → 815.74] what I want.
+[815.96 → 816.16] Right.
+[816.48 → 816.86] Yeah.
+[816.90 → 818.92] And so when you nuance it that way, then you're right.
+[818.92 → 822.98] It's, it's not because the text that one person's faith allows them to eat anything,
+[822.98 → 825.94] but another whose faith is weak eats only vegetables.
+[826.10 → 826.56] So there is that.
+[826.56 → 826.74] Yeah.
+[826.74 → 835.70] And again, that's why I think maybe in, in our language, um, the, the weak faith, uh,
+[835.70 → 843.98] the contrast there isn't as helpful as the, um, uh, sort of immature and mature or the
+[843.98 → 846.54] the less mature and the growing in maturity contrast.
+[846.54 → 850.94] Because even in the next chunk, which we'll be looking at this coming week, Paul does say
+[850.94 → 853.88] pretty explicitly, like there's no such thing as unclean anymore.
+[853.88 → 854.68] So eat whatever you want.
+[854.80 → 854.96] Yeah.
+[855.10 → 858.42] But again, don't do that at the expense of.
+[858.48 → 858.68] Yeah.
+[858.88 → 859.14] Yeah.
+[859.62 → 863.02] You know, your brother or sister in Christ and where they're at in their faith life.
+[863.20 → 863.36] Yeah.
+[863.50 → 868.52] Well, and whenever Paul enters, like, so in, um, it's at first Corinthians eight, uh, he
+[868.52 → 871.42] also has this, a similar conversation and that's where he grounds it.
+[871.52 → 871.88] Right.
+[871.92 → 879.22] He says, um, if, um, how does he, if what I eat causes my brother or sister to fall into
+[879.22 → 881.10] sin, I will never eat meat again.
+[881.52 → 883.02] And so I will not cause them to stumble.
+[883.02 → 887.26] That's verse 13 out of, um, first Corinthians.
+[887.44 → 894.40] So like he does make that point rather explicitly that it's, it's about the community experience
+[894.40 → 894.86] together.
+[894.86 → 900.74] Um, but I think he's defining what are these disputable matters pretty precisely.
+[900.74 → 907.94] Um, and so he also includes not just this meat and vegetable eating, but also, uh, in this
+[907.94 → 913.58] chapter, uh, he talks about, um, those who think one day is more sacred than another versus
+[913.58 → 914.58] every day alike.
+[914.58 → 922.10] Um, in Colossians, uh, two, Paul will make that point more explicitly, and he will list like
+[922.10 → 927.80] new moon festivals and Sabbath days and holy festivals and things like that, um, rather
+[927.80 → 928.32] explicitly.
+[928.32 → 934.90] But again, tying back to the Jewish sort of cultural ritual experience.
+[935.28 → 942.66] And, um, now, uh, transforming that by the, by the light of Christ into, into something
+[942.66 → 942.98] else.
+[943.66 → 948.60] Here's a just a quick example, even, uh, and I won't miss names or even times, but I've
+[948.60 → 950.28] been here now 15 years doing youth ministry.
+[950.28 → 954.72] In my time here, we have had small groups who like to do stuff.
+[954.84 → 958.62] So the way the youth ministry set up is you've got your youth, and they're all in their little
+[958.62 → 960.36] small groups, depending on their age and gender.
+[960.50 → 965.64] And then each group has a couple of youth leaders and these youth leaders will hang out with their
+[965.64 → 969.70] youth outside of sort of the, the defined times of youth ministry.
+[969.82 → 975.28] That's sort of how mental mentorship and discipleship happened over the years to the second point on
+[975.28 → 976.14] sacred days.
+[976.70 → 979.24] Um, oftentimes Sunday is a perfect day to do that.
+[979.24 → 984.56] But there have been youth in the past who's, who have grown up in homes where you're not
+[984.56 → 987.02] to do, you're not to go spend money or to do that.
+[987.12 → 988.82] And that's fine.
+[989.16 → 992.70] Um, even if that goes outside the parameters that the youth leaders had.
+[992.74 → 997.74] And so we always had to have these conversations about, oh, maybe this isn't the thing to do
+[997.74 → 1002.14] with this small group because you've got a youth or three in it who don't, you know, go
+[1002.14 → 1004.54] to McDonald's on Sunday after church and spend money.
+[1004.54 → 1012.48] And so we need to figure out how to then go and be with each other without, um, sort of
+[1012.48 → 1017.78] going against the, um, the, the, the rules, if you will, or the, the understanding of what
+[1017.78 → 1020.34] Sabbath day looks like for these families.
+[1020.86 → 1026.24] And so that, that tension is alive and well, even today, I guess is all I'm getting at.
+[1026.24 → 1033.70] Well, and I think that's an important, like clarifying reality here because, um, the person
+[1033.70 → 1036.74] who, you know, in overlaying those two things, right.
+[1036.74 → 1044.30] About the, the, the moving in maturity, um, and, uh, moving towards freedom, right.
+[1044.30 → 1052.58] Um, the reality is of course, that people have these boundaries and these higher walls than
+[1052.58 → 1058.44] are what explicitly stated in scripture, for instance, in order to ensure their obedience,
+[1058.80 → 1058.98] right.
+[1058.98 → 1062.82] As a way of making safe their practices.
+[1063.32 → 1067.18] Well, and then in this example, I would not be sitting here saying the youth leaders are
+[1067.18 → 1070.76] the ones who are mature in their faith and the families are the ones who are weak in their
+[1070.76 → 1070.94] faith.
+[1071.02 → 1072.02] That's not what I'm getting at.
+[1072.16 → 1072.26] Right.
+[1072.26 → 1077.02] The point is, like you said, these walls and barriers are drawn up in certain ways.
+[1077.10 → 1080.74] And what Paul is getting at the heart of this is don't fight about this stuff.
+[1080.82 → 1081.12] Right.
+[1081.16 → 1085.18] Like, don't let this get in the way of you being the body of you being church together.
+[1085.18 → 1088.92] And so an easy way around that in this case is, you know what, just this small group,
+[1089.00 → 1090.30] don't go to McDonald's after church.
+[1090.54 → 1090.66] Yeah.
+[1091.58 → 1091.78] Yeah.
+[1091.92 → 1099.42] And the I think what's beautiful about the Corinthians eight, nine, and 10, uh, passage, because
+[1099.42 → 1105.44] he draws this out to such an extensive, many examples.
+[1105.84 → 1111.42] Like with the food, he goes big into like, but if somebody's present, don't do it.
+[1111.52 → 1113.16] But if somebody isn't present, it's fine.
+[1113.22 → 1116.94] But if you go to someone's house, and they offer you food sacrifice to idols, it's fine.
+[1116.94 → 1120.18] But if they tell you that it's food sacrifice to idols, don't do it.
+[1120.18 → 1121.86] And like, he goes and goes.
+[1121.98 → 1126.74] But then he also is like, uh, talking about how, you know, we need to set aside things
+[1126.74 → 1127.46] for our brothers.
+[1127.70 → 1129.10] You know, I'm not married.
+[1129.36 → 1130.34] Barnabas isn't married.
+[1130.64 → 1134.06] We could have been married like the disciples, the other disciples.
+[1134.06 → 1138.02] But we, we didn't because we're sacrificing that for this.
+[1138.02 → 1145.40] And even further, we need to do, be just like Christ who set aside Godhood for a period
+[1145.40 → 1147.78] so that he could die for us.
+[1147.82 → 1153.78] And he said, he thought that life, it mattered more that to bring people in than to live.
+[1153.78 → 1162.74] And it's like all of these same examples of, but you're unwilling to put away meat for a
+[1162.74 → 1163.42] few hours.
+[1163.88 → 1164.00] Yeah.
+[1164.94 → 1165.58] Yeah.
+[1165.66 → 1172.20] Well, and that's, that's why like the call to be the stronger, the more mature Christian
+[1172.20 → 1175.84] here is actually the harder call, right?
+[1175.84 → 1181.76] Like you are sacrificing what you know to be part of your freedom for the wellbeing of your
+[1181.76 → 1182.54] brother or sister.
+[1182.54 → 1188.02] Um, and to do that without condescending, right?
+[1188.12 → 1193.82] To do that without like, you know, a holier than thou attitude that says, well, eventually
+[1193.82 → 1194.78] you'll get there.
+[1195.26 → 1197.84] Eventually you'll understand that this doesn't matter.
+[1198.42 → 1204.72] Um, actually, uh, I think reveals the fact that you don't understand what it is that you
+[1204.72 → 1206.56] have been set apart for.
+[1206.56 → 1214.24] Um, and I think there's an there's a tendency to like arrogance that is disguised as spiritual
+[1214.24 → 1214.80] maturity.
+[1215.58 → 1218.66] Um, that borders on abusive in some of those cases.
+[1218.76 → 1222.10] There's actually a perfect example in the church, and it's in this church too, but
+[1222.10 → 1224.96] it's, it's, it's pretty practiced across denominations.
+[1225.46 → 1226.58] Um, is communion.
+[1227.42 → 1227.86] Right.
+[1227.86 → 1232.08] It's bread and wine is what is talked about in scriptures and bread and wine is what was
+[1232.08 → 1233.22] served for many, many years.
+[1233.88 → 1235.02] Now it's bread and juice.
+[1235.02 → 1238.38] And I know that, there was some tension around that switch when it happened.
+[1238.74 → 1242.14] Uh, and every once in a while, even in this congregation, it gets whispered here and there,
+[1242.20 → 1243.84] nothing too serious has ever come of it.
+[1243.84 → 1247.64] But we drink juice because of the community that we're in.
+[1248.08 → 1254.26] And we don't want those who struggle with, you know, with alcohol to have this be something
+[1254.26 → 1258.58] that, you know, a barrier that they have to overcome or something that's a slippery slope
+[1258.58 → 1262.56] for them to get back, um, into, into alcoholism there.
+[1262.62 → 1263.96] And so we serve juice.
+[1264.06 → 1265.84] Many churches serve juice for that reason.
+[1265.84 → 1270.12] And that was when you were preaching on Sunday, that in my mind is a, is a good example of the
+[1270.12 → 1274.28] church being like, we know that it's okay to, but just because it's okay, doesn't mean it's
+[1274.28 → 1275.68] right to, or good to.
+[1277.62 → 1278.06] Yeah.
+[1279.24 → 1279.68] Yeah.
+[1279.74 → 1284.86] And I think that's, um, that's actually one of the examples, uh, not in communion necessarily,
+[1284.86 → 1289.88] but, uh, in this text, uh, in chapter 14, I think it's, it's verse 21.
+[1290.18 → 1290.74] Um, yeah.
+[1291.28 → 1295.84] Uh, Paul says it's better not to eat meat or drink wine or do anything else that will cause
+[1295.84 → 1297.18] your brother or sister to fall.
+[1297.18 → 1301.16] Uh, and so that's the first part where he adds and drink wine.
+[1301.16 → 1306.18] And so it seems like there's also this disputable matter about drinking wine, right?
+[1306.18 → 1312.82] Like, you know, um, over and over again, throughout scriptures, you get the affirmation that wine
+[1312.82 → 1313.44] is okay.
+[1313.44 → 1314.68] It is a gift from the Lord.
+[1314.80 → 1321.44] There's nothing wrong, uh, with drinking wine, and you get the, uh, prohibition against
+[1321.44 → 1323.04] intoxication, against drunkenness.
+[1323.14 → 1323.56] Right.
+[1323.56 → 1329.18] And so the reality in there, and so for some people in order to avoid drunkenness, they
+[1329.18 → 1329.96] don't drink at all.
+[1330.54 → 1330.66] Yeah.
+[1330.90 → 1335.12] And it makes sense that specifically in the book of Romans that he points that out because
+[1335.12 → 1342.50] Rome had the God Bacchus or in Greek Dionysus, who was specifically the God of wine.
+[1343.02 → 1343.64] The party God.
+[1343.90 → 1344.14] Yep.
+[1344.14 → 1349.92] Um, he, there was also a specific cult that goes before the Roman Empire that is all over
+[1349.92 → 1353.40] that region that involves psychedelics and stuff like that.
+[1353.44 → 1356.42] And Paul might be referring to that in one passage in Corinthians.
+[1357.16 → 1363.32] Um, and so it's a big problem for the church because there was a lot of, or after this, there
+[1363.32 → 1368.98] was a lot of problems where the church, heretical groups in the church were mixing with these
+[1368.98 → 1369.88] groups.
+[1370.60 → 1376.60] And so the, the abstention from wine was an important allowance.
+[1376.92 → 1377.04] Yeah.
+[1377.14 → 1382.94] Well, and so there, and that's why it's not only, um, that's why I think it's not only,
+[1382.94 → 1387.14] it's not only in the contrast to the Jews hanging onto their rituals.
+[1387.82 → 1388.22] Right.
+[1388.22 → 1391.22] Um, and the Gentiles coming in and saying, no, I don't need to adopt that.
+[1391.30 → 1392.00] Some of that is there.
+[1392.24 → 1392.68] Right.
+[1392.68 → 1400.36] And especially in, in the cases of food, um, uh, restrictions, you see that, um, also
+[1400.36 → 1402.86] in the, in the question of like circumcision, right.
+[1402.86 → 1409.50] Which I had offered as possibly another disputable matter because, um, like there are indications
+[1409.50 → 1411.84] that this would have been the expected practice.
+[1411.84 → 1415.90] And then, you know, the, the Jerusalem council says, no, that's not required.
+[1415.90 → 1419.50] And then Paul very explicitly refuses to circumcise Titus.
+[1419.50 → 1423.30] Um, you can read about that in Galatians.
+[1423.42 → 1427.62] And that makes sense because in Galatians, the primary antagonists are those mutilators
+[1427.62 → 1428.70] of the flesh, right.
+[1428.74 → 1431.76] Whom Paul wishes would go all the way and just cut the whole thing off.
+[1431.76 → 1435.46] And because they're providing a gospel that is no gospel at all.
+[1435.46 → 1440.78] And so in context, um, then Paul says, no, that doesn't matter.
+[1440.78 → 1447.78] But then he comes along with Timothy, um, and Timothy, he circumcised and does so in order
+[1447.78 → 1452.78] to, uh, have that, that mission context, not be a stumbling block for the people that
+[1452.78 → 1453.70] Paul would minister to.
+[1453.70 → 1458.20] Um, and I think that's an important discerning factor as well, right?
+[1458.20 → 1459.94] You've got the mission context.
+[1459.94 → 1463.60] What is the, the local context wherein these disputes are happening?
+[1464.14 → 1468.54] Um, and how does that impact, uh, what's going on around there?
+[1468.54 → 1473.06] Well, and then, and I mean, we will segue here a second, because in many ways, this text
+[1473.06 → 1477.00] is about, you know, just be nice to each other, right?
+[1477.00 → 1480.12] Like get along, not be nice to each other, but just like, like these disputable manners,
+[1480.12 → 1481.20] don't let them divide.
+[1481.70 → 1487.42] Um, don't let the harm that can come from arguing about these things and forcing people to do
+[1487.42 → 1491.74] things perhaps that they're uncomfortable with or, or not willing to do, uh, get in the
+[1491.74 → 1494.52] way of, of fellowship and edifying the body.
+[1494.52 → 1501.06] And yet the other side danger to this, um, discussion, and you toed the line very well
+[1501.06 → 1507.10] on Sunday, I thought, is we also can't weaponize disputable, what did I write down?
+[1507.16 → 1510.56] You can't weaponize disputable matters to get what you want.
+[1510.94 → 1514.44] That's what you chatted about on Sunday, the second sort of half of the message.
+[1515.12 → 1519.92] Um, the idea of like, oh, I'll just, I'll say this is something that upsets me, or I don't
+[1519.92 → 1522.74] agree with, and then the body will have to like to submit to my requests.
+[1522.86 → 1525.46] And so that way I'll get what I, what I desire.
+[1525.90 → 1529.86] Um, that is not spiritual maturity either.
+[1530.48 → 1530.58] Yeah.
+[1531.24 → 1536.38] And I think that's why like putting this in the broader context of like moving together
+[1536.38 → 1541.96] in maturity is really important because moving together in maturity requires accountability,
+[1541.96 → 1543.22] right?
+[1543.26 → 1547.58] And accountability requires being able to disagree, right?
+[1547.58 → 1549.68] It requires being able to challenge one another.
+[1549.92 → 1552.64] Like, why are you actually doing this, right?
+[1552.66 → 1559.76] What is your purpose for this, this boundary or this rule, or what are you pursuing, um,
+[1560.50 → 1565.40] as a result of that, or as using this as a means by which to move?
+[1565.40 → 1572.20] And if one is pursuing holiness or, you know, right living with the Lord or pursuing, and
+[1572.20 → 1576.02] you use the language of like, we need to die to the Lord because he died to us.
+[1576.02 → 1580.64] If, if we're pursuing that, or if an individual is pursuing that and that's why they don't
+[1580.64 → 1584.64] do this or don't eat that, or don't participate in this, that's a good reason.
+[1585.48 → 1588.18] But so often sometimes like, well, I just don't like that.
+[1588.58 → 1590.16] It doesn't do anything for me.
+[1590.16 → 1591.12] Yeah.
+[1591.12 → 1591.16] Yeah.
+[1591.16 → 1596.80] And so part of that is like, um, I use the language of like elevating cultural norms
+[1596.80 → 1604.48] or personal preferences or personal piety to prescriptive norms for everyone else.
+[1604.96 → 1609.40] Um, and, and that's where you, where you have to do that kind of introspection.
+[1609.40 → 1615.96] But the reality is of course, that we are blind to most of our own introspections.
+[1615.96 → 1618.88] Uh, and so we do need people to call us out.
+[1619.02 → 1622.64] We do need scripture to, to test our ideas.
+[1622.64 → 1622.92] Right.
+[1622.98 → 1627.50] And so that's why when we talked at the beginning about growing in community, growing immaturity
+[1627.50 → 1629.30] in community is so critical.
+[1629.62 → 1634.36] Um, the attitudes with which we do that, I think that's what Paul is, is really getting
+[1634.36 → 1634.82] at here.
+[1634.82 → 1635.48] Right.
+[1635.52 → 1640.06] And so like when he says, why do you judge your brother or sister, or why do you treat
+[1640.06 → 1641.20] them with contempt?
+[1641.52 → 1642.02] Right.
+[1642.04 → 1645.42] What he's naming there is the attitude that people call things out.
+[1645.50 → 1653.42] So if you're calling someone out, um, because, um, one, you're made uncomfortable by their
+[1653.42 → 1654.56] behaviour, right.
+[1654.56 → 1659.84] Or you're calling someone out because of, you know, certain personal ideas or preferences
+[1659.84 → 1666.14] that you have, um, instead of like judging, maybe be inquisitive.
+[1666.92 → 1669.24] I think that's an important thing to highlight.
+[1669.34 → 1673.60] I was thinking while you're preaching on Sunday and then since then as well, like, you know,
+[1673.60 → 1675.66] I get, I get the I love it.
+[1675.74 → 1679.12] I get the privilege of like hanging out with the teenagers of the youth in this church and
+[1679.12 → 1683.44] ministering and discipling with other young adults and adults as we, as we walk alongside
+[1683.44 → 1683.84] this youth.
+[1683.88 → 1687.42] And I was, I was wondering, oh, I wonder if the youth, and maybe I should have asked them
+[1687.42 → 1692.88] Sunday and I had the chance to, I didn't, I wonder what the youth like see as, um, some
+[1692.88 → 1696.76] maybe dividing principles in their life, like things that they are allowed or not allowed
+[1696.76 → 1702.34] to do, um, compared to other Christians they know who are, you know, allowed to do the opposite
+[1702.34 → 1702.74] of that.
+[1703.94 → 1708.84] I wonder if, and this is an inquisitive thing, Josh, maybe you can speak on the young adults
+[1708.84 → 1710.66] side of things because you get to talk to them a lot.
+[1711.24 → 1715.92] Um, I'm not sure if this actually grates up against the youth as much as, as they would,
+[1715.92 → 1717.50] I don't think they see it as often.
+[1717.78 → 1721.14] I think they're, they're concerned more about like, is this true?
+[1721.20 → 1722.08] Is the Bible true?
+[1722.22 → 1724.26] Is, did Jesus do what he said he did?
+[1724.52 → 1725.96] How does that matter for me?
+[1726.32 → 1726.52] Yeah.
+[1726.56 → 1731.96] Um, and then they, I think we get into the weeds of it later in life would be my analysis,
+[1731.96 → 1733.04] but maybe that's not fair.
+[1733.20 → 1734.14] I should actually ask these.
+[1734.22 → 1735.20] I don't, what do you see in the young adult?
+[1735.70 → 1743.06] Well, I think part of it is as you get older, you're understanding and your beliefs and the way
+[1743.06 → 1748.88] you're living out your faith become more and more entrenched as you get older.
+[1749.42 → 1755.12] And, but it's like, you know, when teenagers grow up, there's that stage where they're
+[1755.12 → 1756.26] just having fun.
+[1756.26 → 1759.10] And then all of a sudden I know better than everyone else in my life.
+[1759.72 → 1760.12] Right.
+[1760.16 → 1763.26] It's, it kind of seems like when you're a new Christian, when you're going through youth,
+[1763.26 → 1766.60] it's like, there's that I'm just learning, I'm learning, I'm learning.
+[1766.60 → 1771.02] And then there hits a point where it's just, I know things.
+[1771.30 → 1776.46] And so the I've never left that phase, the learning phase of the I know everything
+[1776.46 → 1776.80] already.
+[1777.34 → 1782.80] Um, and so you'll hear people specifically new Christians, like what Paul is talking about,
+[1782.86 → 1785.28] where they're like, okay, I know what I'm doing now.
+[1785.60 → 1787.20] And they start living it out.
+[1787.20 → 1795.38] And then people 30 years into their Christian, Christian walk, or who have done intense maturing,
+[1795.66 → 1799.40] um, are going, yeah, you're at that stage.
+[1800.40 → 1805.52] You're, you're just around the corner from getting that idea worked out.
+[1805.66 → 1807.78] It just takes humility.
+[1809.04 → 1809.64] Yeah.
+[1810.14 → 1810.40] Yeah.
+[1810.84 → 1813.80] Well, and I, I mean, I think, I think that's true.
+[1813.80 → 1818.98] Although I would, I know there's a correlation to age and duration in faith, but I would,
+[1819.04 → 1820.50] I would, but it's not exact.
+[1820.62 → 1822.44] I wouldn't tie those things exactly together.
+[1822.52 → 1823.94] Well, it goes back to what we talked about at the beginning.
+[1824.18 → 1824.20] Yeah.
+[1824.40 → 1824.54] Yeah.
+[1824.82 → 1830.90] Because I think, um, there, there's a some people who mature real quickly.
+[1831.16 → 1834.70] Well, there's some people who mature real quickly, but then there's also some people who,
+[1835.22 → 1840.62] um, under the we'll say maybe the, the guise of spiritual maturity.
+[1840.86 → 1841.14] Yes.
+[1841.14 → 1849.66] Um, actually move towards, um, a more nominalist kind of experience of faith.
+[1849.66 → 1849.90] Right.
+[1849.94 → 1853.82] Or they stop caring about those things that they don't consider essential.
+[1854.18 → 1856.40] Um, and that's fine.
+[1856.78 → 1857.72] Prioritize things.
+[1857.72 → 1858.00] Right.
+[1858.04 → 1860.82] Like I, I was chatting with someone after church on Sunday.
+[1861.18 → 1864.30] Um, and he brought up the phrase, right.
+[1864.30 → 1868.50] That, um, in the essentials' unity, right.
+[1868.52 → 1873.08] In the non-essentials liberty in all things charity.
+[1873.08 → 1879.72] Um, and so what we're talking about in, in this sort of non-essentials liberty, that's
+[1879.72 → 1881.60] kind of this Romans 14, 15 things.
+[1882.60 → 1890.00] Um, but what, what happens is that people, um, sometimes you see people who, who define
+[1890.00 → 1894.62] as essentials, um, more things on the periphery than they should.
+[1894.62 → 1899.20] And instead of allowing for liberty in those things, they just like don't care.
+[1899.72 → 1900.76] Liberty becomes apathy.
+[1901.08 → 1901.30] Yeah.
+[1901.60 → 1901.84] Yeah.
+[1901.92 → 1902.48] Yeah, absolutely.
+[1902.66 → 1909.04] And, um, and not apathy in, in a cynical sense, but in a, in a literal sense of like,
+[1909.04 → 1912.52] I have, I have no desire or emotion or concern about that.
+[1912.52 → 1920.82] And that kind of toleration is perhaps what defines, um, a younger generation today, right?
+[1920.82 → 1927.64] Like when you look at the, the universal Gnostic religious ethic that comes out of the hemorrhaging
+[1927.64 → 1932.94] faith studies and things like that of young adults in Canada in the late 2000 and teens,
+[1933.56 → 1933.80] right?
+[1933.84 → 1935.68] I think it was 2018 that that was first published.
+[1936.12 → 1936.18] Yeah.
+[1936.18 → 1942.40] Um, like that idea of the, the social value of tolerance being like the highest priority.
+[1942.52 → 1949.74] Um, I think that comes at a cost of pursuing maturation together because to pursue maturation,
+[1949.74 → 1952.36] you have to be able to say yes, this and no this.
+[1952.76 → 1953.24] Right.
+[1953.28 → 1961.48] But the manner in which you do that ought to, to your point, be, um, like pervaded with a
+[1961.48 → 1962.30] sense of humility.
+[1962.64 → 1962.88] Yeah.
+[1962.88 → 1962.98] Yeah.
+[1963.80 → 1964.24] Yeah.
+[1964.30 → 1972.50] It's the, the, it's, uh, I'm losing my thought as I'm thinking.
+[1972.52 → 1973.14] I'm thinking about it.
+[1973.40 → 1976.60] Have you ever had that where like, it's just going out the back of your head all the time.
+[1976.92 → 1979.10] I know, I know everything, but I forget everything very quickly.
+[1979.10 → 1985.48] Um, no, but the, the, I think the thing that just keeps coming back from the Corinthians
+[1985.48 → 1991.80] passage, which is almost identical to this is the it, it, he starts with the food sacrifice
+[1991.80 → 1992.28] to idols.
+[1993.20 → 1993.60] Right.
+[1993.72 → 1997.68] But then it ends with, but in everything glorify God.
+[1998.00 → 1998.32] Yeah.
+[1998.58 → 2001.76] And not only that it's, but how do you do that?
+[2001.76 → 2006.60] You do that by loving your neighbour as yourself and loving your God with all your strength
+[2006.60 → 2008.34] and with all your soul, with all your strength.
+[2008.56 → 2013.88] Well, this, this coming Sunday's text is going to kind of tie the bow on that, um, as well.
+[2013.92 → 2017.22] Like what does this, what does this look like?
+[2017.42 → 2017.68] Yeah.
+[2017.74 → 2018.56] Played out in church.
+[2018.56 → 2029.40] And it's always be like Christ in your willingness to sacrifice yourself for the other, even if
+[2029.40 → 2031.72] that means momentarily putting the chains back on.
+[2032.06 → 2032.14] Yeah.
+[2032.84 → 2040.84] Well, and I think, so part of what I hoped to do on, on Sunday is to, to help hearers and
+[2040.84 → 2043.42] equip them with some discerning tools.
+[2043.42 → 2043.94] Right.
+[2043.94 → 2050.70] And so these disputable matters, um, I left that pretty limited to the kinds of things
+[2050.70 → 2056.82] that scripture, um, has a prescription for, and then has freedom from in.
+[2056.94 → 2060.62] And I think in context, that's what Paul is doing.
+[2061.46 → 2068.78] Um, uh, there are other people, um, you know, perhaps the greatest of these, uh, like John Calvin,
+[2068.78 → 2077.20] um, who uses Romans 14 as part of his sort of, uh, explaining, uh, the category of things
+[2077.20 → 2077.76] indifferent.
+[2078.26 → 2078.74] Right.
+[2078.78 → 2085.18] And, and in John Calvin, uh, the category of things indifferent is bigger than the non-essentials
+[2085.18 → 2085.76] category.
+[2086.32 → 2086.76] Right.
+[2086.80 → 2088.16] That we've talked about just a moment ago.
+[2088.16 → 2094.16] I think it's, um, in some cases you can define the things indifferent or the adiaphora,
+[2094.16 → 2099.28] for those who know the Greek word category as those things about which the Bible doesn't
+[2099.28 → 2105.26] speak or provide an explicit, um, um, command on or instruction in.
+[2105.64 → 2111.36] And some of those things are, of course, are like, um, because like anachronistically, the
+[2111.36 → 2113.46] Bible isn't going to know to talk about these things.
+[2113.46 → 2118.22] And so an example, Kevin and I were talking earlier today, um, of something that is adiaphora
+[2118.22 → 2120.24] is like vaccines, right?
+[2120.24 → 2125.00] And so coming out of COVID and so there were all sorts of talk about, um, vaccines and
+[2125.00 → 2128.50] whether, you know, we had to mandate people getting them and where are we going to bind
+[2128.50 → 2132.78] consciences on getting the vaccine or bind consciences on not getting the vaccine.
+[2133.46 → 2137.08] Um, or what to do with people when they have the vaccine or if they don't have the vaccine,
+[2137.18 → 2139.26] what they can and can't go to and things like that.
+[2139.26 → 2144.34] And I think that's an example of things indifferent because scripture doesn't speak on that.
+[2144.52 → 2147.68] Scripture will provide principles of wisdom that we try to apply.
+[2147.68 → 2152.78] Um, but very wise, rational people are going to come to differences of opinion on that.
+[2153.18 → 2158.52] That's where I think because it is adiaphora, you can't bind people's consciences because
+[2158.52 → 2159.50] it is a thing indifferent.
+[2159.66 → 2163.76] You can't say this is how you must be.
+[2164.28 → 2168.40] And I think when you start binding people's consciences, that's when you're bordering on,
+[2168.40 → 2174.50] um, an abuse of power or at least, um, taking advantage of your influence.
+[2174.50 → 2177.82] I mean, technology is the other easy one to like lob in there, right?
+[2177.92 → 2180.38] Like how much usage is too much usage?
+[2180.52 → 2181.92] What do you use technology for?
+[2182.04 → 2185.18] How much, you know, phones, computers, like you name it.
+[2185.76 → 2189.94] Um, we're all pretty numb to that conversation in these circles because technology is such
+[2189.94 → 2191.62] a big, vast part of our lives.
+[2191.78 → 2195.66] Um, and yet there are guiding principles in scripture that can help us with that, but
+[2195.66 → 2199.08] people are going to come to different conclusions on what is appropriate and inappropriate.
+[2199.08 → 2204.32] And you're going to have absolutists on both ends of the spectrum who exist in your church.
+[2204.42 → 2204.62] Yep.
+[2205.12 → 2205.92] And in your community.
+[2206.36 → 2209.98] Now, and I think that's the things indifferent that, and this is where I disagree with John
+[2209.98 → 2213.70] Calvin, because I don't think that what he's talking about here, these disputable matters,
+[2213.70 → 2216.08] I don't think that's the same category.
+[2216.24 → 2216.26] Yeah.
+[2216.26 → 2217.46] Those are two different things.
+[2217.64 → 2218.80] In my opinion.
+[2218.80 → 2223.42] And again, um, like I want to treat this humbly, but this is where we investigate.
+[2223.42 → 2223.84] Right.
+[2223.84 → 2230.68] Um, and I think what you're seeing is this kind of disputable matter, um, and the, the,
+[2230.68 → 2237.78] the pattern of like growing and maturation, because you want people to move towards maturity.
+[2237.78 → 2238.42] Right.
+[2238.68 → 2244.08] Um, and so I think you always have that goal in these kinds of instances where you have,
+[2244.28 → 2246.32] you know, it is for freedom that crisis set you free.
+[2246.40 → 2248.60] And so this is what that looks like.
+[2248.60 → 2257.90] Um, you don't necessarily in those adiaphora things, um, want or, or need people in the
+[2257.90 → 2262.84] same way to move over to the quote, strong side of the argument, because who gets to determine
+[2262.84 → 2263.14] that?
+[2264.14 → 2264.62] Right.
+[2264.64 → 2269.12] I think here you see what the strong side, what the mature perspective is.
+[2269.14 → 2274.04] And that's why I want to limit our discussion to these things that scripture talks about,
+[2274.04 → 2276.74] um, as the disputable matters.
+[2276.74 → 2282.64] And I want part of my, the way I talked about it on Sunday was to help equip people with
+[2282.64 → 2285.76] some tools for saying, okay, where does scripture talk about this in one way?
+[2285.76 → 2288.12] And then where does scripture talk about this in the other way?
+[2288.34 → 2288.74] Right.
+[2288.78 → 2290.38] And then how do we grow in that?
+[2291.00 → 2293.58] And so I've mentioned the three that are in the text.
+[2293.78 → 2295.32] There are some other ones, of course.
+[2295.54 → 2299.48] Um, one of the ones that we talked about is around marriage and celibacy, right.
+[2299.48 → 2300.52] And what that looks like.
+[2300.86 → 2303.00] Um, and that comes out of first Corinthians seven.
+[2303.00 → 2308.56] Another one is, um, Josh, you mentioned already, but food sacrifice to idols and what that kind
+[2308.56 → 2309.72] of discernment looks like.
+[2310.06 → 2318.56] Um, and I think, you know, um, there are a couple others that are less clear, and we don't
+[2318.56 → 2321.50] need to get into maybe the weeds on them.
+[2321.90 → 2327.08] Um, but it's worth naming, I think in part, because I said we would name them in the podcast
+[2327.08 → 2332.14] on Sunday and I don't want to disappoint people who've listened for 35 minutes to, to not
+[2332.14 → 2332.80] hear those things.
+[2332.80 → 2339.06] But yeah, the others are wine and no wine, uh, one day versus every day, uh, vegetables
+[2339.06 → 2340.48] or all things.
+[2340.80 → 2342.70] And then Timothy and Titus.
+[2343.10 → 2343.58] Yeah.
+[2343.72 → 2344.52] And circumcision.
+[2344.80 → 2345.22] Right.
+[2345.24 → 2346.50] That's the Timothy and Titus one.
+[2346.54 → 2346.72] Yeah.
+[2346.72 → 2346.84] Yeah.
+[2346.84 → 2347.70] The circumcision one.
+[2348.00 → 2352.88] But so here is where I think there are a couple other disputable matters in scripture,
+[2352.88 → 2358.44] but I think they're less clear because they're based rather than on explicit instruction,
+[2358.44 → 2364.04] but on, um, on practice and a contrast of practice.
+[2364.20 → 2374.04] And so for example, um, you might be able to articulate how one's clothes in worship, what
+[2374.04 → 2375.54] you wear to worship, right?
+[2375.62 → 2376.92] Are a disputable matter.
+[2377.20 → 2381.94] Um, because in the Old Testament, you see all sorts of regulations around the ephod and
+[2381.94 → 2387.58] the priests cleanliness and clothes and the requirements thereof and, um, the people coming,
+[2387.58 → 2391.10] uh, and the requirements that they have in coming to temple.
+[2391.62 → 2392.06] Right.
+[2392.38 → 2400.28] Um, and then in the New Testament, um, you don't get that affirmation restated.
+[2400.70 → 2404.44] And while everybody has a line on that, like everybody draws a line somewhere, that line
+[2404.44 → 2406.80] for some can be like, no, there are no restrictions where, whatever you want.
+[2406.88 → 2410.82] But even that they don't actually believe that there's still a line there somewhere.
+[2410.82 → 2413.62] Um, but people draw that in different spots.
+[2413.76 → 2419.38] And to be honest with you, like where the right one is, I have an opinion, but I also
+[2419.38 → 2420.60] know that that's just my opinion.
+[2420.98 → 2421.12] Yeah.
+[2421.38 → 2426.40] Well, and you have the other one of on the Sabbath, do you work or not?
+[2426.90 → 2433.00] And there are passages where, yeah, don't in the Old Testament, but then Jesus does his
+[2433.00 → 2435.90] father's work in the on the Sabbath.
+[2436.46 → 2436.86] Yeah.
+[2437.00 → 2439.50] We, we don't brush up against this.
+[2439.60 → 2442.04] We talk about types of music in worship wars.
+[2442.56 → 2447.78] Um, but there are conversations about, do you have a worship team period upfront?
+[2447.78 → 2452.28] Or do you let these worship bands that exist, like you can watch videos of people leading
+[2452.28 → 2453.02] you in worship now.
+[2453.02 → 2455.04] And so I know in other churches, they talk about that.
+[2455.12 → 2456.78] And some people see that as totally fine.
+[2456.84 → 2459.98] Other people, that's not how church is meant to be.
+[2460.42 → 2465.40] Although that one, again, like in, in carrying the principle of these disputable matters,
+[2465.40 → 2470.84] being things that have referent in scripture, and then adiaphora being those things that
+[2470.84 → 2472.18] don't have referent in scripture.
+[2472.18 → 2475.20] I think that would be a different category, right?
+[2475.28 → 2480.06] But the clothes in worship, like you have Paul, um, again, in first Corinthians, right?
+[2480.08 → 2485.22] He talks about, um, like the length of hair for both men and women, right?
+[2485.32 → 2485.52] Right.
+[2485.52 → 2488.36] He talks about the being dressed in gold, right?
+[2488.42 → 2493.22] And, and his principle there, Paul's conclusion there is that actually having all that adornment
+[2493.22 → 2497.24] isn't what you want to come in humility, right?
+[2497.24 → 2500.42] And so the principle out of that is, you know, be humble.
+[2500.42 → 2506.34] Um, and so like in application, as far as a disputable matter, it begs the question then
+[2506.34 → 2511.52] when you put your suit on to come to worship, right?
+[2511.58 → 2514.52] Is, is that because you want to enter the presence of the King?
+[2514.82 → 2521.24] And so this is a formal affair, or is that because you want to, you know, show your neighbour,
+[2521.36 → 2523.10] you have a $3,000 Armani suit.
+[2523.28 → 2524.76] Is it posture or is it presentation?
+[2525.26 → 2525.66] Right?
+[2525.76 → 2525.96] Right.
+[2526.16 → 2527.20] What's the posture of your heart?
+[2527.20 → 2529.94] Or is this about presenting yourself to people around you?
+[2529.94 → 2535.74] Well, and this goes to the other verse in that passage that you brought up, which is where
+[2535.74 → 2541.04] is your conscience causing you?
+[2542.64 → 2544.76] Is your conscience telling you this is wrong?
+[2546.60 → 2551.66] Um, and I feel like that, that was kind of where you ended the sermon was if this is,
+[2551.78 → 2555.28] if your, if your conscience is telling you, yeah, don't do it, don't do it.
+[2555.28 → 2555.76] Yeah.
+[2556.18 → 2560.68] I think we're going to be able to, to talk about this next week more because this text
+[2560.68 → 2566.74] continues down this thread, um, through the rest of this chapter, but I'm, I'm just looking
+[2566.74 → 2571.56] at the, the, the time here, and I want to be able to like, um, end this well.
+[2571.62 → 2572.28] So I'm going to do this.
+[2572.36 → 2574.98] We're going to start a new segment today on welcome to the narthex.
+[2574.98 → 2577.12] It's called take homes.
+[2577.50 → 2582.50] Chris, give me 30 seconds of a take home that you think people need to hear coming out of
+[2582.50 → 2582.88] this sermon.
+[2582.98 → 2584.14] And then Josh, we're going to go to you afterwards.
+[2584.14 → 2588.46] So give me a 30-second take home from this message on Sunday, Chris and go.
+[2588.46 → 2598.42] I think that there is something deeply and genuinely compelling, um, experiencing a community that
+[2598.42 → 2600.78] can live together in faith towards maturation.
+[2601.04 → 2607.14] And so that accepts people exactly where they're at and understands that this is who you are
+[2607.14 → 2608.14] at this moment.
+[2608.26 → 2609.58] It's not who you will always be.
+[2609.98 → 2613.48] And so we're growing towards greater fidelity.
+[2613.48 → 2616.16] We're growing towards a greater experience of freedom in Christ.
+[2616.28 → 2617.70] We're growing towards greater obedience.
+[2618.46 → 2619.58] Perfectly 30 seconds.
+[2619.70 → 2621.78] Well done, Chris, Josh, 30 seconds.
+[2621.90 → 2623.60] What's your take home from Chris's sermon?
+[2624.12 → 2631.10] Uh, as a brother or sister in Christ, when you're sitting in somebody with a dispute, be
+[2631.10 → 2637.54] like Christ, but not in his perfect omniscience, knowing what is right and wrong, uh, but rather
+[2637.54 → 2641.30] in humility, willing to sit with someone who needs grace.
+[2642.26 → 2642.78] Excellent.
+[2643.32 → 2644.28] 10 seconds to spare.
+[2644.60 → 2644.96] All right.
+[2644.98 → 2646.22] You can borrow his 10 seconds.
+[2646.22 → 2649.30] What is your 30-second take home?
+[2649.66 → 2657.04] My 30-second take home would be, don't be dismissive about these things, but like be willing to engage
+[2657.04 → 2660.12] these disputable matters, but do it humbly and do it well.
+[2660.34 → 2666.14] Go in like Josh, like you both just said, go in willing to engage.
+[2666.14 → 2669.28] Is this a posture thing or is this a presentation thing?
+[2669.38 → 2672.94] Is this something that defines the heart or is this something that defines what it means
+[2672.94 → 2673.62] to follow Jesus?
+[2674.42 → 2674.54] Yeah.
+[2675.14 → 2679.82] Now, before we go, I have two more, like before we transition out of this, and this is just
+[2679.82 → 2682.46] for the people who've been listening because they want to hear the other controversial
+[2682.46 → 2682.90] things.
+[2683.08 → 2686.74] And I'm just going to drop them and then people can follow up with the conversation for me
+[2686.74 → 2687.66] or with me.
+[2687.66 → 2693.50] But I think you can make a very compelling case that a disputable matter in the scriptures
+[2693.50 → 2695.44] is infant baptism.
+[2695.90 → 2696.08] Woo.
+[2696.86 → 2700.80] And I think you can make a pretty compelling case that a disputable matter in the scriptures
+[2700.80 → 2702.86] is women in church leadership.
+[2703.46 → 2703.78] Woo.
+[2705.30 → 2706.46] We talked too long.
+[2706.54 → 2707.64] We should have dug into those.
+[2707.90 → 2709.38] At me in the comments below.
+[2709.52 → 2709.66] Yeah.
+[2709.70 → 2710.14] There we go.
+[2711.04 → 2711.78] Sounds good.
+[2712.94 → 2716.34] Before we sign off, what were some moments in mission for you this week?
+[2716.34 → 2717.46] Josh, we're going to start with you this time.
+[2718.18 → 2718.48] Yes.
+[2718.66 → 2723.02] So the Aaron Acts, we started our Bible study of Amos.
+[2723.50 → 2724.92] We got through two chapters.
+[2725.36 → 2732.00] A lot of it was on how to read prophetic literature because a lot of people don't.
+[2732.68 → 2737.44] And it's not a literary style that we currently use in our culture.
+[2737.80 → 2743.98] And so there's a lot of pre-reading you have to do before you really get to understand what
+[2743.98 → 2745.48] God is saying through Amos.
+[2746.34 → 2746.66] Nice.
+[2746.86 → 2747.50] Was it well received?
+[2748.28 → 2748.52] Yeah.
+[2748.96 → 2750.88] I mean, Amos is a terrifying book.
+[2751.58 → 2760.24] You don't get a lot of the grace that we're used to in other areas of the Bible, but you
+[2760.24 → 2762.16] do get a lot of God's justice.
+[2762.16 → 2763.16] Yeah.
+[2763.16 → 2764.16] Yeah.
+[2764.16 → 2764.18] So.
+[2764.78 → 2771.58] And, I mean, this is a minor prophet principle, of course, but to those who have been victims
+[2771.58 → 2774.12] of injustice, God's justice is grace.
+[2774.34 → 2774.54] Yeah.
+[2775.60 → 2776.04] Yeah.
+[2776.52 → 2778.44] It's just not sent to those people.
+[2778.84 → 2779.00] Right.
+[2780.22 → 2780.66] Yeah.
+[2782.10 → 2784.34] Chris, what's the moment of mission for you this week?
+[2784.34 → 2792.28] Uh, I am right now doing some pre-marriage counselling classes with two couples from our
+[2792.28 → 2792.78] congregation.
+[2792.78 → 2796.52] Um, and those are awesome times together.
+[2796.52 → 2799.52] It's fun walking with people as they're preparing for marriage.
+[2799.94 → 2804.40] Uh, it's fun in our first session or two, just sort of laying what I think is a really
+[2804.40 → 2806.68] compelling biblical foundation for marriage.
+[2806.68 → 2813.74] Um, and it's, it's just, it's neat to, uh, be working with these young couples who are
+[2813.74 → 2819.68] so excited about the future, um, and, uh, you know, are in love with the Lord and want
+[2819.68 → 2822.10] to see, um, want to start that well together.
+[2822.10 → 2824.24] And that's just fun and beautiful for me.
+[2824.72 → 2824.88] Awesome.
+[2825.96 → 2832.20] Um, my moment in mission was this past Friday afternoon and evening, um, a leader, the leadership
+[2832.20 → 2833.64] student, actually he goes to our church.
+[2833.64 → 2840.66] He, along with, uh, uh, staff at LCS put on, uh, a youth conference called Valley Youth
+[2840.66 → 2841.04] Conference.
+[2841.04 → 2843.66] It was hosted by LCS and Southbridge.
+[2843.76 → 2845.54] So their youth pastor at Southbridge helped out too.
+[2845.62 → 2846.30] He did a great job.
+[2846.80 → 2847.74] Uh, it was a perfect night.
+[2847.88 → 2850.74] They brought in a couple of speakers from Apologetics Canada.
+[2850.74 → 2852.52] They talked about, can you trust the Bible?
+[2852.88 → 2854.06] Um, did a good job.
+[2854.38 → 2858.16] Uh, I had the honour of running a workshop there as well.
+[2858.58 → 2862.48] Uh, so I ran two workshops, uh, one workshop twice is actually the right way to say that,
+[2862.48 → 2866.88] um, why Christianity is compelling and what sets Christianity apart from other worldviews
+[2866.88 → 2867.40] and religions.
+[2867.92 → 2869.84] Uh, and it was a good, it was a good night.
+[2869.96 → 2870.86] So we had fun.
+[2871.00 → 2874.58] It was, uh, a good chunk of our youth, uh, there.
+[2874.84 → 2876.24] So it was fun times.
+[2876.50 → 2876.94] Nice.
+[2877.16 → 2877.82] Josh, final thoughts?
+[2878.90 → 2881.10] Ooh, um, yeah.
+[2881.30 → 2884.72] Be willing to sacrifice everything like Christ did for your brother.
+[2885.96 → 2886.86] Chris, final thoughts?
+[2886.86 → 2891.20] Yeah, I think, uh, you know, the gospel redefines strength.
+[2891.94 → 2893.78] Um, Jesus redefines strength.
+[2894.34 → 2899.20] Um, and strength is giving of yourself over and over and over.
+[2899.28 → 2900.16] It's dying to self.
+[2900.30 → 2901.56] That's what real strength looks like.
+[2902.10 → 2902.58] There you go.
+[2903.58 → 2908.56] As we step out of the narthex and into everyday life, we invite you to keep these conversations
+[2908.56 → 2911.40] about faith going with the people around you.
+[2911.40 → 2913.40] We thank you very much for joining us this week.
+[2913.64 → 2919.50] And on behalf of Josh and Chris, this is Kevin saying God bless and go in peace.
+[2920.12 → 2921.04] We'll see you Sunday.
+[2921.04 → 2951.02] We'll see you Sunday.
