@@ -1,0 +1,595 @@
+[0.12 --> 3.00]  No, no, no, no, no, no, no, no, guys, guys.
+[18.16 --> 27.16]  This is Welcome to the Narthex, a weekly podcast from Langley Manuel Christian Reformed Church.
+[27.76 --> 31.00]  The Narthex is the gathering place between the sanctuary and the world outside.
+[31.46 --> 34.26]  For the curious to journey in and for the disciple to journey out,
+[34.82 --> 38.22]  whether you're a member of our church family or just peeking in for the first time,
+[38.66 --> 42.48]  we're here to continue the conversation, explore ideas, and build connections.
+[42.98 --> 45.02]  No frills, just real talk about faith.
+[45.26 --> 49.30]  Welcome to the Narthex, where faith meets real life, one conversation at a time.
+[52.94 --> 55.20]  Hello, everyone. Welcome to the Narthex.
+[55.20 --> 59.98]  It's so great that you are joining us today on this podcast about faith and community
+[59.98 --> 64.80]  and last Sunday's sermon that was held here at Langley Emanuel CRC.
+[65.08 --> 72.42]  I am joined here today by two of possibly the greatest theologians this side of the Nicolmeclo River
+[72.42 --> 75.54]  who are going to introduce themselves right now.
+[76.40 --> 77.58]  I'm Joshua.
+[78.22 --> 82.10]  I am the Young Adults Ministry Coordinator.
+[82.10 --> 83.96]  I cannot speak English.
+[86.14 --> 91.34]  My name is Chris, and I'm the lead pastor here at Langley Emanuel.
+[91.84 --> 96.34]  And I'm just wondering if we're the greatest theologians this side of the Nicolmeclo because
+[96.34 --> 100.52]  you don't know anybody else or because you don't know where the Nicolmeclo is?
+[100.62 --> 101.80]  Well, I know where the Nicolmeclo is.
+[102.02 --> 102.90]  I'm not positive.
+[103.06 --> 104.62]  And like how close to the Nicolmeclo?
+[104.88 --> 106.08]  Like within 100 meters?
+[106.08 --> 106.60]  You know what?
+[107.10 --> 112.44]  People can take that introduction and broaden the scope of distance however they wish.
+[112.48 --> 115.48]  Because, Kevin, we live in a ball, so everything is this side of the Nicolmeclo.
+[115.48 --> 116.36]  That's the Nicolmeclo.
+[116.54 --> 117.06]  Yeah, that's true.
+[117.22 --> 118.28]  Thanks for the introduction, too.
+[118.34 --> 118.68]  I'm Kevin.
+[118.76 --> 119.52]  I'm the youth pastor here.
+[119.60 --> 121.58]  So it's good that you're joining us today.
+[122.34 --> 125.94]  We are recording this actually in the afternoon today instead of the morning.
+[126.02 --> 128.24]  And this room is way hotter than it usually is.
+[128.66 --> 131.04]  So we'll see how that affects the conversation today.
+[131.04 --> 137.00]  Before we dig into Romans 15, boys, what were you up to this weekend?
+[138.00 --> 141.44]  It wasn't the weekend, but it might as well have been for me.
+[141.56 --> 144.48]  On Monday, I went to the island.
+[144.86 --> 148.66]  It's for a work trip that I do regularly, but it was just beautiful.
+[148.90 --> 149.82]  The ocean was nice.
+[149.98 --> 151.70]  It hailed on the island.
+[152.52 --> 153.28]  It was fun.
+[154.60 --> 158.08]  I mean, and it sounds like a thing anyway.
+[158.70 --> 159.14]  Yeah.
+[159.98 --> 161.00]  The ocean's beautiful.
+[161.34 --> 162.42]  The ocean is very beautiful.
+[162.62 --> 163.66]  That's absolutely true.
+[164.24 --> 165.74]  And the ferry ride is nice.
+[166.10 --> 166.28]  Yeah.
+[166.52 --> 166.70]  Yeah.
+[168.34 --> 172.00]  So this weekend was my anniversary, actually.
+[173.00 --> 174.20]  Married 17 years.
+[174.68 --> 175.02]  Wow.
+[175.32 --> 184.06]  And so my anniversary was on Saturday, and we had a lot of things on Saturday, sports things
+[184.06 --> 187.08]  for my son and for us as well.
+[187.18 --> 190.00]  We had a couple baseball games on Saturday, too.
+[190.00 --> 194.28]  And there was just lots going on that we had to work on and finish up.
+[194.48 --> 198.90]  And so we didn't actually get to celebrate too much on Saturday, but we moved that to Monday.
+[199.24 --> 204.20]  And so my wife and I had a lovely Monday together where we just hung out, just the two of us,
+[204.58 --> 209.66]  after bringing the kids to school and before we had to pick them up from school.
+[209.66 --> 211.02]  So like a good six hours.
+[211.20 --> 211.30]  Yeah.
+[211.38 --> 212.66]  It was a good five and a half hours.
+[213.14 --> 216.54]  Six hour date together where we just spent time with each other.
+[216.58 --> 216.96]  It was lovely.
+[217.24 --> 217.50]  Nice.
+[218.02 --> 218.38]  How about you?
+[218.70 --> 218.98]  Yeah.
+[219.02 --> 219.92]  No, I had a great weekend, too.
+[219.92 --> 223.44]  We, like you both, played baseball on Saturday.
+[223.56 --> 228.96]  I wasn't able to play in the second game, though, because I got to go to this frozen play that
+[228.96 --> 234.36]  my kids' school was putting on, the Fundy Middle and High School.
+[235.02 --> 235.92]  They did an excellent job.
+[235.92 --> 241.34]  I took, my wife and I took our youngest and our two nieces to it.
+[241.52 --> 243.04]  And so they ate it up.
+[243.10 --> 244.08]  They thought it was so much fun.
+[244.24 --> 250.26]  And it was just kind of a fun time with these three young ladies who are less than six years old
+[250.26 --> 254.24]  at a play watching Sven and Kristoff and Elsa and Vanna.
+[254.58 --> 255.10]  It was good.
+[255.22 --> 255.58]  It was fun.
+[255.72 --> 256.64]  Although I did miss baseball.
+[256.76 --> 258.08]  And that did make me a little bit sad.
+[259.24 --> 261.38]  Did everyone sing along?
+[262.00 --> 264.18]  Like, was it a sing-along kind of play?
+[264.18 --> 266.22]  Yeah, I don't know if they sang along.
+[266.46 --> 268.92]  Like, it wasn't like the whole gym was ruckus.
+[269.00 --> 272.12]  And a couple of them, like, whoever played, and I actually know the girl who played Elsa,
+[272.24 --> 272.94]  she was unreal.
+[273.10 --> 275.04]  Like, you didn't want to sing along with her because she was such a good singer.
+[275.08 --> 276.02]  You just wanted to hear her.
+[277.20 --> 281.36]  But there was definitely, like, audience participation as far as there was a lot of cheering and booing
+[281.36 --> 283.56]  and laughing and clapping and that type of thing.
+[283.64 --> 284.24]  So it was fun.
+[284.40 --> 284.60]  Nice.
+[284.66 --> 285.28]  It was a nice atmosphere.
+[286.40 --> 291.66]  And then on Sunday, I got to hear another delightful sermon by you there, Pastor Chris.
+[291.66 --> 294.76]  Why don't you give us a quick little summary of what that was all about?
+[296.46 --> 297.56]  Yeah, of course.
+[298.24 --> 303.20]  On Sunday, we dove into the first part of Romans 15.
+[304.30 --> 309.86]  Romans 15 really is part of the same bigger conversation.
+[310.50 --> 318.36]  Paul is starting to wrap that up, even as he's starting to wrap up the entire letter to the church in Rome.
+[318.36 --> 332.74]  So Romans 15 is kind of the end of Paul's particular example of application in the contrasting of the weak and the strong Christian.
+[332.90 --> 337.30]  So the less mature and the mature Christian.
+[337.56 --> 340.76]  And Romans 15, he begins by saying,
+[340.76 --> 345.70]  We who are strong ought to bear with the failings of the weak and not to please ourselves.
+[345.84 --> 354.46]  And then he goes through and gives examples of what maturing in the faith looks like
+[354.46 --> 367.64]  and how that maturity builds a unity in the body, in the church, in its local instantiation.
+[367.82 --> 375.70]  But also, I think you could zoom out and say in its more organic or global instantiations as well.
+[375.70 --> 385.28]  And so the kind of big idea that we lived under on Sunday was that maturity in the gospel builds unity around the gospel.
+[386.26 --> 389.70]  And we explored what that meant primarily through four categories.
+[389.70 --> 396.06]  Yeah, you had four main points that you spent most of the rest of the body of the sermon there kind of working us through.
+[396.56 --> 398.94]  Did you want to list those four points now? Is that a good idea?
+[399.00 --> 400.04]  Sure. Why don't we jump in?
+[400.04 --> 408.72]  And so this idea then is that the gospel unifies us together.
+[409.42 --> 413.98]  And so gospel unity, one, bears up the less mature.
+[414.72 --> 418.38]  And this comes out of the first verse in chapter 15.
+[418.98 --> 424.74]  Two, that gospel unity looks to others first, which comes out of the second verse of chapter 15.
+[424.74 --> 431.50]  And then the third idea was that gospel unity grows towards hope.
+[432.02 --> 439.98]  And that grounds us in sort of verse 4 and 5 of chapter 15.
+[440.12 --> 445.98]  And then the last one is that gospel unity glorifies God, which grounds us sort of in verse 6.
+[446.52 --> 453.74]  And then in the rest of the verses, verse 7 through 13, kind of reflect those themes back.
+[453.74 --> 456.06]  And so I didn't actually get into it on Sunday.
+[456.22 --> 461.74]  But structurally, when you look at the literary structure of this text, there's actually a really fascinating...
+[462.80 --> 469.20]  It's not chiastic structure in that it doesn't move into a unified point in the middle and then move out.
+[469.38 --> 471.54]  But it's a parallel structure.
+[472.22 --> 478.16]  And so the themes from that first section in verse 1 repeat in verse 7 and 8.
+[478.16 --> 483.04]  And then the themes from that next one in verse 2 repeat in verses like 8 and 9.
+[483.22 --> 496.54]  And then so it like the carries through in the structure in a really fascinating way that allows you to sort of like dig deep in the first two verses, but cover the entire content of all 13 verses.
+[496.82 --> 499.80]  Which I thought was interesting, but didn't make it into the actual sermon.
+[500.06 --> 500.80]  That is very interesting.
+[501.40 --> 503.18]  Josh, we're going over to you right now.
+[503.18 --> 505.08]  What are some thoughts that you had coming out of all that?
+[505.58 --> 510.18]  What I liked was unity is not immaturity.
+[511.04 --> 512.18]  It is in maturing.
+[514.16 --> 516.96]  That line, I even put your name underneath it as like a quote.
+[517.96 --> 519.26]  That was honestly like...
+[519.26 --> 520.14]  I'm holding my notes too.
+[520.24 --> 521.62]  And we didn't go over this at all.
+[521.66 --> 521.80]  No.
+[521.80 --> 523.28]  Like all you fun listeners out there.
+[523.28 --> 526.72]  That was honestly like the highlight line for me too in the whole message.
+[527.28 --> 535.68]  And equal to that for me was maturity, maturing in your Christian walk is worship and praise.
+[537.04 --> 539.28]  Which those two ideas together just...
+[539.84 --> 544.28]  It's just another grand way of saying that you as a Christian by...
+[545.62 --> 546.58]  It is worship.
+[546.76 --> 548.86]  It is praise when you become more like Christ.
+[548.86 --> 555.94]  And the whole relationship, the whole idea of Christianity is you as an individual have been adopted by the king.
+[556.12 --> 563.18]  And you are being shaped and patterned and molded and moved to be like his son so that you can be his son.
+[563.60 --> 568.14]  And that is what we just in modern day culture called maturing.
+[569.00 --> 571.20]  Yeah, I think that's excellent.
+[571.36 --> 572.06]  And I agree.
+[572.16 --> 575.74]  I found that line such a helpful line.
+[576.02 --> 577.88]  And I'm not sure why I found it so helpful.
+[577.88 --> 578.78]  I don't know.
+[579.84 --> 583.20]  Maybe it's that we do live in a more individualistic culture.
+[583.38 --> 586.50]  And so the idea of maturing being like, oh, they just need to get to where I am.
+[586.58 --> 587.78]  Or like, oh, I know best here.
+[587.90 --> 591.82]  And so as people get maturing for them will be to hit me.
+[592.00 --> 596.88]  Or if I look to other people who I think are mature in their faith, it'd be like, oh, as soon as I understand things the way they understand them.
+[597.44 --> 599.86]  But that line just wipes all of that away.
+[599.86 --> 607.34]  And it becomes more about how do we engage these topics well with each other as we mature in our faith.
+[607.38 --> 608.82]  That becomes the focal point.
+[608.82 --> 612.86]  And that transition or that shift in thought I found very, very helpful.
+[612.86 --> 632.06]  Well, I think, you know, in a world that like forces divisions on us, in a world that like, you know, wants to categorize people as left or right or progressive or trad or, you know, whatever language.
+[632.06 --> 634.92]  Rad. Nice, nice. Good pull.
+[636.44 --> 659.96]  In a world that seeks to like create all of these divisions, this idea that unity is a reality that we both live in and out of, but also move towards in our pattern of growth creates, I think, a really like beautiful space.
+[659.96 --> 663.30]  For us to mature together.
+[664.26 --> 666.88]  A line you had right around there, I wrote it down as well.
+[667.54 --> 669.64]  And it's that point that you just made.
+[669.70 --> 676.56]  The idea that unity is not having the same opinions, but unity is expressed in the movement towards maturity.
+[677.06 --> 682.52]  And again, it's not a matter of coming to the same conclusions as everyone.
+[682.66 --> 684.90]  It leaves room for differing opinions.
+[684.90 --> 690.62]  And maybe that's very, obviously that's very purposely done by Paul because he's coming out of this disputable matters conversation.
+[690.62 --> 692.20]  He's kind of tying a bow on all of that.
+[692.20 --> 703.76]  But the idea that to be united is not to have the same opinion as everyone, but to be united is that we can engage these conversations well as we both seek spiritual maturity in our faith.
+[704.08 --> 704.26]  Yeah.
+[704.34 --> 716.50]  I think you either said it in multiple ways or I just heard different words and then wrote down the same idea, which was maturity isn't agreeing on a matter, but agreeing on how you will discuss those matters.
+[716.50 --> 716.90]  Yeah.
+[717.58 --> 719.14]  That's almost exactly the way I said it.
+[719.14 --> 724.74]  What we're hearing today is that Josh is actually listening and I'm paraphrasing like five minutes later, be like, I was something like this.
+[727.60 --> 731.90]  And I don't know, the alliteration with the M's there just made it stick in my head.
+[733.04 --> 734.14]  And back down to simple.
+[735.52 --> 736.30]  Rhetorical devices.
+[736.46 --> 736.56]  Yeah.
+[736.66 --> 737.12]  That's good.
+[737.38 --> 737.52]  That's good.
+[738.62 --> 738.84]  Yeah.
+[738.94 --> 745.28]  And so it's how am I going to relate to the person next to me, not the idea.
+[745.28 --> 746.80]  But doesn't that just change?
+[746.84 --> 750.20]  That just changes so much of how I think our world operates.
+[750.64 --> 751.00]  Right.
+[751.02 --> 756.64]  And you were just talking about how we want to label ourselves as, you know, left or right or conservative or liberal.
+[756.64 --> 763.48]  Or, I mean, you can slice that pie however you want to, but either way you're saying, you know, pick this side or that side, have this opinion or that opinion.
+[764.26 --> 765.42]  And that kind of sucks.
+[766.42 --> 772.56]  Like, so this idea is so attractive to me because it gives room for like, no, come, like eat in my house.
+[772.56 --> 773.48]  Let's sit in my living room.
+[773.52 --> 774.30]  Let's talk about this.
+[774.30 --> 775.42]  Let's mature together.
+[775.54 --> 779.82]  And you can leave with a very different opinion than me, but then just come back on over later.
+[780.04 --> 783.42]  And we don't ever have to get to the same stance on some of these things.
+[783.42 --> 785.92]  But let's grow together in this and let's seek God.
+[786.00 --> 788.28]  And that gets to some of your points, right?
+[788.32 --> 791.24]  Growing towards hope, looking to others first, glorifying God.
+[791.32 --> 798.68]  That, all of those shifts happen when we start approaching conversations and, you know, journeying with others in our faith life together.
+[798.68 --> 801.34]  Like, it's – it makes sense.
+[801.64 --> 803.82]  It's freeing and all that.
+[803.90 --> 808.44]  But I think it's antithetical to us because of we're sinful.
+[808.68 --> 809.70]  And I can see it in myself.
+[809.80 --> 821.80]  There's too many times where I've had discussions with people where I say I'm too – I desire to have the answer believed or the conclusion the way I want it to and not the maturing.
+[821.80 --> 822.10]  Yeah.
+[823.10 --> 823.30]  Yeah.
+[823.50 --> 824.36]  And I – yeah.
+[824.36 --> 835.32]  And I think it's – it is not our natural way of being together and our natural way now being affected by sin, right?
+[835.38 --> 837.02]  Because of our rebellion against God.
+[837.82 --> 842.34]  I think, though, it becomes the new natural way, right?
+[842.38 --> 845.82]  In the new creation reality that we all live in, right?
+[845.82 --> 859.20]  And so, as we've talked before about living in this tension of the already not yet, right, like waging war against the flesh while also living as one who has overcome, as one who has been given the victory in Jesus Christ.
+[859.20 --> 875.48]  And so, even as we recognize just how hard this is or how countercultural this is, like, I want us to be really careful that we don't use that as an excuse to not actually do it, right?
+[875.48 --> 879.10]  Or to not do the hard work of doing this, right?
+[879.10 --> 890.40]  And we'll get a – jump ahead a little bit, but, like, the next conversation, Josh, you're preaching on coming out of the text that follows up, but that's all about sacrifice.
+[890.64 --> 891.08]  Yeah.
+[891.34 --> 891.54]  Right?
+[891.58 --> 893.72]  And so, we need to do the hard work of sacrifice.
+[893.86 --> 908.28]  And then remember, right, for those of you who've been journeying with us through Romans for a while, this transition into this second half of Romans begins in Romans 12 with the call to offer our bodies as living sacrifices, right?
+[908.28 --> 920.38]  And so, this is the pattern, and this is where, like, the hard work of Paul's good theology starts to make manifest in our lives together.
+[920.38 --> 930.84]  Yeah, it's the willingness to sit with inhumility because you realize this by yourself as well, and you're this way to other people.
+[931.18 --> 942.14]  But the uncomfortableness of confronting each other, like, sitting in those hard questions, knowing that one day it's not going to have to be like this.
+[942.30 --> 943.52]  But while we're here, it is.
+[943.52 --> 944.12]  Yeah.
+[945.12 --> 956.10]  Well, and I think, so part of the language of this text, right, is that, like, we move together in maturity, we bear one another's failings, but also we build up.
+[956.10 --> 965.16]  And this comes back to something that, Kevin, you preached on, you know, a couple weeks ago now, this idea of mutual edification, right?
+[965.18 --> 968.44]  And that word edifying literally means to build up.
+[969.58 --> 973.28]  And that's what, you know, maturing together is, right?
+[973.32 --> 974.70]  We're building each other up.
+[974.96 --> 979.80]  We're encouraging one another to grow in the grace and knowledge of Jesus Christ.
+[980.12 --> 981.48]  Sorry, I'm having a thought in real time.
+[982.48 --> 983.24]  Until it happened.
+[983.24 --> 986.44]  Do edify and edit come from the same root word?
+[989.04 --> 992.92]  Because edifying is to build up, and to edit is to modify.
+[994.40 --> 996.68]  I don't know the answer to that question.
+[997.40 --> 997.70]  Yeah.
+[997.82 --> 1007.04]  I know that edify and edifice, I mentioned this on Sunday, and that comes through Latin, and so my Latin isn't as strong as my Greek and Hebrew.
+[1007.22 --> 1008.28]  Edifice or edipus.
+[1009.18 --> 1009.36]  Yeah.
+[1009.58 --> 1010.18]  That's odipus.
+[1010.40 --> 1010.72]  Right.
+[1010.72 --> 1014.36]  And that's something completely different altogether.
+[1015.78 --> 1017.38]  And we'll ask your mom about that one.
+[1017.80 --> 1019.66]  No, no, no, no, no, no, no, no.
+[1019.66 --> 1020.40]  Guys, guys.
+[1022.08 --> 1022.54]  All right.
+[1023.16 --> 1023.48]  Recalibrate.
+[1023.60 --> 1024.64]  Let's get back to it here.
+[1024.64 --> 1030.84]  What I, the line through, what I liked about it is you listed these four points.
+[1030.88 --> 1031.78]  You've already gone over them.
+[1032.44 --> 1037.10]  But in my head, you did an excellent job because each one kind of flows into the next.
+[1037.26 --> 1040.92]  They all, there's four distinct parts.
+[1041.00 --> 1046.38]  There's four distinct ways that, you know, gospel unity shows itself within the body of Christ.
+[1046.38 --> 1048.70]  But they each sort of just lead into one another.
+[1048.98 --> 1050.98]  And that's what I found very fascinating, too.
+[1051.48 --> 1057.08]  There aren't these, like, isolated islands or siloed off, like, opinions that, like, oh, you have to check these boxes.
+[1057.32 --> 1060.50]  It's generally, if you're doing this one, it's going to look like this and it's going to flow into this one.
+[1060.54 --> 1062.40]  And if you're doing that one, it's going to flow into the next one.
+[1062.40 --> 1066.92]  Which, in some ways, is really nice because it's not this complicated.
+[1067.68 --> 1072.22]  You know, if you're bearing up the less mature, you're looking out for the other.
+[1072.52 --> 1073.62]  Like, you're looking out for that person.
+[1073.68 --> 1075.54]  And if you're doing that, you're both growing together.
+[1075.94 --> 1082.30]  And, of course, because this is speaking through the gospel truth of Jesus Christ, you're growing together in the hope of Jesus, which is glorifying to God.
+[1082.72 --> 1083.92]  And so they all just kind of...
+[1083.92 --> 1094.38]  Well, and that's affirming to hear from just an exegetical standpoint, because I think Paul's argumentation has a very clear through line.
+[1094.38 --> 1106.62]  And so being able to reflect that clear through line in the preaching of the text in a way that helps us make sense of it, each stop kind of on the way, is encouraging to hear.
+[1106.62 --> 1126.64]  I think one of the cool things about this particular text and the way that Paul, like, journeys us through, not only is in that, the literary structure that I've already mentioned, but how he takes these ideas and then continually is grounding them back in the person of Christ.
+[1127.36 --> 1127.54]  Right?
+[1127.62 --> 1131.74]  And so this idea of looking out to others first, he says, that's exactly what Christ did.
+[1131.98 --> 1132.14]  Right?
+[1132.18 --> 1134.44]  The insults that have fallen in you have fallen on him.
+[1134.88 --> 1135.18]  Right?
+[1135.18 --> 1137.34]  And then he goes into the promises.
+[1137.86 --> 1137.96]  Right?
+[1137.96 --> 1139.96]  He mentions the promises that were spoken in scriptures.
+[1140.24 --> 1142.42]  They were given in order to give us encouragement.
+[1142.42 --> 1144.94]  They were given us in order to teach us endurance.
+[1145.86 --> 1149.62]  And then we see those promises fulfilled in the person of Jesus Christ.
+[1149.62 --> 1149.94]  Right?
+[1149.98 --> 1150.94]  Who gives us hope.
+[1151.54 --> 1160.38]  And I think that's just a really nice kind of, not only through line, but also like the foundation then of all our maturing.
+[1160.38 --> 1167.62]  The foundation of all our sanctifying and being sanctified is the person and work of Jesus.
+[1168.92 --> 1169.42]  Yeah.
+[1169.76 --> 1179.98]  And I think that's so, like, this is one of the parts of Reformed doctrine that I think is absolutely beautiful and compelling.
+[1179.98 --> 1180.98]  Right?
+[1180.98 --> 1187.28]  That all of this is the work and the fruit of the work of Jesus Christ.
+[1187.28 --> 1193.68]  And I find that so compelling because we so easily make it about us.
+[1194.14 --> 1197.76]  And we so easily make it about either our successes or our failures.
+[1197.76 --> 1200.90]  And when it's about my success, well, then I'm never good enough.
+[1200.96 --> 1203.44]  And when it's about my failure, well, I'm too bad to be helped.
+[1203.56 --> 1205.26]  But all of these things are about Christ.
+[1205.26 --> 1207.60]  And who he is and what he's done.
+[1207.68 --> 1211.72]  And so even my maturing is a work of Christ.
+[1211.84 --> 1217.86]  It's the most compelling part of Christianity, of the Christian faith, of the gospel truth of Jesus, is that it's not about us.
+[1217.94 --> 1218.88]  It's not about what we do.
+[1219.00 --> 1220.16]  It's not about what we can't do.
+[1220.26 --> 1222.12]  It's not about what we try to do and fail at doing.
+[1222.54 --> 1224.58]  Like I said, it's not about our successes or our failings.
+[1224.60 --> 1225.32]  It's about Jesus.
+[1226.26 --> 1228.72]  And about how he is over all of it.
+[1229.32 --> 1229.44]  Yeah.
+[1229.44 --> 1229.86]  Mm-hmm.
+[1231.96 --> 1233.56]  All right.
+[1233.56 --> 1235.84]  A little bit unique to this podcast.
+[1235.96 --> 1237.48]  I've never done this before, but we're going to give it a go.
+[1238.02 --> 1240.62]  Chris, you had a line we talked about.
+[1240.72 --> 1245.98]  And if you need to get refreshed on this, feel free to check out the sermon again this week.
+[1246.04 --> 1249.50]  But you were talking about how gospel unity bears up the less mature.
+[1249.58 --> 1256.22]  And you had a line that said that the strong have to learn how to bear with the failings of the weak.
+[1256.52 --> 1258.50]  Paul says that in his text.
+[1258.72 --> 1260.74]  Maybe not in exactly those words, but he says that.
+[1261.08 --> 1262.82]  But I did write down, and this is what's going to be different.
+[1262.82 --> 1265.26]  I'm going to pose a question to you both because I'm curious what your answer is.
+[1265.96 --> 1269.16]  Do the weak ever have to bear the failings of the strong?
+[1271.62 --> 1273.02]  And if so, what does that look like?
+[1273.02 --> 1285.60]  I, my guess right now, my first initial answer is if they are the weak or the less mature, the ones that are, is they, in that moment, they are the strong.
+[1286.36 --> 1291.46]  If, on the other hand, it's the strong doesn't mean perfect.
+[1291.46 --> 1294.36]  And the weak doesn't mean without success.
+[1295.18 --> 1300.58]  Well, and then, and maybe, maybe there's a little bit, maybe to answer that question, we have to relook at what strong and weak mean in faith here.
+[1300.66 --> 1301.74]  But that is what I wrote.
+[1301.78 --> 1303.56]  I was curious what your thoughts were on that.
+[1303.56 --> 1320.94]  So I think, I mean, definitionally, from like a categorical perspective, I think that the call is for those who are more mature, right, to bear with the failings or to bear up, to build up those who are less mature.
+[1320.94 --> 1342.26]  And so, like, I think that binary exists, but who is in those binaries, who in this moment is the less mature and who in this moment is the more mature might be different circumstance to circumstance, idea to idea, or, you know, point of life to point of life.
+[1342.46 --> 1343.52]  So the hats can switch.
+[1343.72 --> 1344.12]  Absolutely.
+[1344.12 --> 1344.24]  Absolutely.
+[1344.90 --> 1347.50]  I think that's, I think that, that, that makes sense to me.
+[1347.70 --> 1355.58]  And I feel like as I was stewing over that for the last few days, that's sort of where my, but I do think over the last few weeks, we've been talking about those who are strong in their faith and those who are weak in their faith.
+[1356.34 --> 1361.76]  And I think the danger is you start thinking like there are just those two categories and you are either in one camp or the other.
+[1362.00 --> 1363.30]  And at some points you shift.
+[1363.58 --> 1367.38]  But really what we're saying is it's not that clean.
+[1367.80 --> 1371.18]  Well, I think it's also just highlighting the fact that we're all maturing.
+[1371.60 --> 1371.96]  Yeah.
+[1371.96 --> 1381.72]  And that, that we are all the weak one being matured in Christ, the strong one who is bearing with our weaknesses.
+[1382.16 --> 1382.32]  Yeah.
+[1382.54 --> 1385.52]  And we do that with each other.
+[1385.96 --> 1386.18]  Yeah.
+[1386.56 --> 1388.62]  Well, and, and for instance, right?
+[1388.66 --> 1394.48]  Like you talk to anyone who serves as a pastoral elder in this church, right?
+[1394.48 --> 1403.24]  And they have been given that responsibility in this church because the church has recognized in them a particular gifting and skill set.
+[1403.30 --> 1405.40]  The church has ordained them for that service.
+[1405.40 --> 1412.08]  And then these people come into your home with a certain measure of authority, right?
+[1412.08 --> 1414.84]  That we've all recognized in them and given to them.
+[1415.56 --> 1422.34]  And they sit down and they open the scriptures to us or they pray with us or they cry with us in a moment of grief or hardship.
+[1422.34 --> 1430.10]  And they are leading by maturity, right?
+[1430.10 --> 1431.90]  They're leading from a place of maturity.
+[1431.90 --> 1442.68]  But you talk to every one of the people who do this and they come back to our pastoral elders meeting, for instance, and they say, I'm always so blessed every time I go visit this person.
+[1442.68 --> 1448.68]  Or, you know, I went to visit this person in the hospital and I left feeling like I was encouraged more, right?
+[1448.68 --> 1464.04]  And so there's this, in a sense, there's this reciprocal encouragement that happens because, you know, well, you may be in a moment of grief and mourning and need my steadfastness of faith because you can't feel that right now.
+[1464.30 --> 1468.24]  And so I will do it for you and I will uphold you in that moment.
+[1468.24 --> 1478.16]  And I need your expressiveness of faith or your groundedness in the practicalities of faith.
+[1478.26 --> 1480.20]  And like for me personally, for instance, right?
+[1480.22 --> 1486.38]  I'm really good in like the theology and in the learning and the remembering of scripture and the studying of scripture.
+[1486.38 --> 1491.22]  That is a spiritual gift and a natural gift to be sure.
+[1492.22 --> 1496.36]  One that I am growing in, right, is the discipline of prayer.
+[1496.36 --> 1503.62]  And I look to other people who are gifted as, you know, prayer warriors and I'm learning from them, right?
+[1503.66 --> 1516.24]  And I'm listening and being encouraged by their ability to be, you know, led in the spirit to newness of prayer and to follow after him in ways that I am only just beginning to learn how to do.
+[1516.66 --> 1517.48]  I like that.
+[1517.58 --> 1518.50]  Those are good examples.
+[1518.50 --> 1520.92]  And I think, I mean, Josh, you said it leading into that.
+[1520.92 --> 1532.30]  I think what this past Sunday's message did in sort of like putting a cap on this discussion over the last three weeks was show that like we are all maturing in our faith.
+[1532.56 --> 1541.26]  And so it is not a matter of like, oh, this church of, you know, 240 people, there's 120 of you that are strong and 120 of you that are weak.
+[1541.26 --> 1545.78]  And so you weak ones, we'll just, we'll make sure to bear up your stuff and we'll deal with you and we'll be able to roll alongside.
+[1546.02 --> 1552.42]  And the 120 that are strong, like just keep doing your thing, like don't get into squabbles and, you know, they'll get to you eventually.
+[1552.66 --> 1554.56]  But that is not what this is at all.
+[1554.66 --> 1556.24]  We are all maturing in our faith.
+[1556.32 --> 1563.16]  We are all strong and weak in certain areas of our life or at certain opportunities in our life or at certain cross sections in our life.
+[1563.16 --> 1568.26]  Some are going to be more strong than others and some are going to be more weak than others for sure.
+[1569.24 --> 1573.84]  But it's not, you can't just simply slap a couple of hats on people and call it a day.
+[1574.58 --> 1576.14]  It is more complex than that.
+[1576.28 --> 1580.26]  And the idea that we're all maturing is an important takeaway from your message on Sunday.
+[1580.26 --> 1580.32]  Yeah.
+[1581.22 --> 1591.52]  And I think you also see this same idea of the strong helping the weak throughout the book of Romans, but in more abstract ways, right?
+[1591.52 --> 1599.06]  Like the obvious, you see God pulling the sinners up and bringing them to Christ in the early three chapters.
+[1599.06 --> 1601.98]  You see him doing that specifically through Abraham.
+[1602.36 --> 1608.54]  And then you see him building up Israel and Israel is the strong in faith and the Gentiles are not.
+[1608.54 --> 1614.64]  But then they become weak and the Gentiles are made strong so that eventually they can build up their brothers.
+[1615.56 --> 1618.70]  And then inside the church, you see that described.
+[1618.70 --> 1624.34]  And yeah, no, I think that's right.
+[1624.50 --> 1628.66]  And I think that there's a humility, right?
+[1628.66 --> 1630.88]  To recognizing that we are all growing together.
+[1631.68 --> 1635.34]  But there's also, I think, an encouragement, right?
+[1635.44 --> 1646.34]  Like, so yeah, you may not be as good at Josh or as gifted at Josh at, you know, memorizing Hebrew words.
+[1646.72 --> 1647.38]  And I'm not.
+[1647.38 --> 1651.88]  I'm sorry, I was looking at you when I said that, but I wasn't talking about you.
+[1651.90 --> 1653.70]  No, but we all know that you were talking about me.
+[1654.70 --> 1665.88]  And that kind of like learning devotion may not be your gifted area, but all of us by virtue of, or at least I'll say it this way.
+[1665.88 --> 1673.58]  All of us who by grace through faith believe do so because we have been given the power to do so by the Holy Spirit.
+[1673.74 --> 1680.76]  And so we have all been equipped with a gift and a work of the Holy Spirit to grow the church.
+[1680.76 --> 1683.32]  And our gifts are always meant for the whole body.
+[1683.32 --> 1692.36]  And so we all have something to contribute to the well-being of the whole body, to the maturing of the body.
+[1692.72 --> 1692.96]  Mm-hmm.
+[1693.50 --> 1693.80]  Totally.
+[1694.28 --> 1698.68]  And if, you know, a Hebrew word needs memorizing, I could just let Josh do it.
+[1698.84 --> 1699.10]  Yeah.
+[1699.10 --> 1701.30]  And then just ask him later.
+[1702.74 --> 1703.06]  Right?
+[1703.24 --> 1705.30]  That's what we were getting at with all of this.
+[1705.36 --> 1707.00]  Kevin, I have my failings too.
+[1707.22 --> 1709.62]  And some of them is memorizing too many words.
+[1711.34 --> 1712.14]  No, that's awesome.
+[1712.14 --> 1718.24]  What are, you know, what are some sort of final take-homes that we're taking away from Sundays?
+[1718.46 --> 1723.00]  And maybe even we could summarize the last three messages because they do all kind of connect together.
+[1723.24 --> 1728.20]  That the goal of unity isn't to make 4 billion identical people.
+[1729.14 --> 1733.76]  In that you mentioned that within the Trinity itself, there's the Father, the Son, and the Holy Spirit.
+[1733.86 --> 1735.10]  And they are unified.
+[1735.58 --> 1740.94]  But for multiple things to be unified, there has to be a distinction between them.
+[1741.10 --> 1741.28]  Yeah.
+[1741.28 --> 1748.44]  And the same with us humans who are the body of Christ and a part of him.
+[1748.66 --> 1749.84]  We are distinct.
+[1749.96 --> 1750.70]  I am not Kevin.
+[1750.86 --> 1751.62]  Kevin is not I.
+[1751.80 --> 1753.12]  Kevin is not Chris.
+[1753.20 --> 1754.28]  And Chris is not myself.
+[1754.96 --> 1755.90]  And nobody's me.
+[1758.40 --> 1758.92]  Yes.
+[1760.92 --> 1763.50]  But we're unified in Christ.
+[1764.00 --> 1767.86]  And finally, unity is hopeful and our hope is unifying.
+[1768.60 --> 1771.02]  And in fact, you know, and I don't mean this as an arrogant thing.
+[1771.02 --> 1772.70]  I boast in the Lord and only the Lord.
+[1773.20 --> 1777.22]  But the fact that the three of us aren't the same is only good for this body.
+[1777.54 --> 1777.72]  Yeah.
+[1778.08 --> 1778.28]  Right?
+[1778.60 --> 1781.06]  Just like the elders are not all the same.
+[1781.10 --> 1782.40]  And that's only good for this body.
+[1782.40 --> 1784.82]  And the ministry leaders of each ministry are not all the same.
+[1784.90 --> 1786.40]  And that is only good for this body.
+[1786.74 --> 1789.80]  And the worship teams that we have on Sunday are not all the same worship teams.
+[1789.80 --> 1791.32]  And that is only good for this body.
+[1791.32 --> 1791.76]  Yep.
+[1791.84 --> 1793.04]  And yet we are all united.
+[1793.30 --> 1798.88]  Because even though all the members of the Trinity are God, their participation in creation
+[1798.88 --> 1800.40]  is specifically different.
+[1801.14 --> 1801.66]  Yep.
+[1802.06 --> 1803.12]  Well, I'm...
+[1803.12 --> 1810.84]  So first of all, I appreciate that you latched on to that illustration of what unity and differentiation
+[1810.84 --> 1815.84]  looks like, because I thought that was a really cool little Trinitarian theology moment.
+[1816.02 --> 1820.30]  Well, it goes back to the original thing you said, that the world tries to divide us with
+[1820.30 --> 1822.26]  these categories, right?
+[1822.64 --> 1822.84]  But...
+[1823.84 --> 1826.06]  And we're talking about unity here.
+[1826.06 --> 1828.42]  But unity doesn't mean identical.
+[1828.42 --> 1838.78]  Unity means multiple things come together, have a thing that is similar, have a thing that binds them.
+[1839.52 --> 1847.90]  And so it allows people from all of those distinct differences to come together in a church as the body of Christ.
+[1848.98 --> 1851.14]  And what unifies is Christ.
+[1851.62 --> 1851.74]  Yep.
+[1854.04 --> 1854.78]  That's good.
+[1854.78 --> 1854.90]  Yeah.
+[1855.50 --> 1855.88]  Yeah.
+[1855.94 --> 1863.64]  One of the, like the, the pithy ways that that has been said is that unity is not uniformity.
+[1864.16 --> 1864.36]  Yes.
+[1864.58 --> 1864.74]  Yeah.
+[1865.30 --> 1865.58]  Right?
+[1866.38 --> 1871.46]  And so there's an easy way to take that idea and remember it.
+[1874.20 --> 1881.94]  I think one of the other things that I like, or that I'm taking home out of this text,
+[1881.94 --> 1893.18]  is coming back to that idea, gospel unity grows toward hope, but grounding that growth in the scriptures, right?
+[1893.26 --> 1898.20]  Verse four, everything that was written in the past was written to teach us so that through the endurance taught in the scriptures
+[1898.20 --> 1901.24]  and the encouragement they provide, we might have hope.
+[1901.24 --> 1915.38]  And so maturity, right, is grounding ourselves more and more in the scriptures, grounding ourselves more and more in the work of God in redeeming the world,
+[1915.64 --> 1925.94]  both in the past, in his revelation, in the ongoing work of the Holy Spirit, and in the eventual future restoration of all things.
+[1925.94 --> 1932.44]  And so the life, I said on Sunday, the life of gospel unity isn't one of accomplishment, it's one of growing.
+[1933.58 --> 1940.78]  And so I think that, like, one of the encouragements, maybe, connected to this growing in the scriptures,
+[1941.06 --> 1946.60]  and I mentioned it on Sunday, but it's one that I constantly come back to in my own head and in my own life,
+[1946.98 --> 1952.48]  and in my own hope for this church, right, is that we would be like the Berean church in Acts 17,
+[1952.48 --> 1959.78]  that we would be those who are constantly searching the scriptures to see if what, you know, in their case it was Paul was saying was true,
+[1959.86 --> 1963.30]  but to see if what any of us who are preaching is saying is true.
+[1963.38 --> 1971.50]  Like, we, I want us to be the kind of place, and I hope that we can model, and maybe this podcast plays a small role in doing that,
+[1972.14 --> 1976.36]  what it means to diligently search the scriptures, right, with eagerness,
+[1976.82 --> 1980.28]  and examining them every day to see if what is said is true.
+[1980.28 --> 1980.92]  Mm-hmm.
+[1981.20 --> 1987.16]  And I think that's a beautiful standard for us to hold ourselves to and to strive for.
+[1987.46 --> 1992.18]  I mean, if the take-home is going to be like, hey, let's just, like, let's get into the Word of God,
+[1992.28 --> 1995.90]  let's read it more often, if you're only opening it once a week or once a month,
+[1995.98 --> 1999.50]  or if you're never opening it at all until you get to church and someone opens it for you,
+[2000.50 --> 2001.52]  maybe that's your take-home.
+[2001.76 --> 2005.62]  Like, let's, you know, for lack of a better word, let's do better.
+[2005.62 --> 2013.76]  Yeah, it's the, those things, those practices, those spiritual disciplines are there to conform us to the image of Christ,
+[2013.76 --> 2017.26]  and when we don't want to is precisely when we need to.
+[2018.76 --> 2019.16]  Yeah.
+[2019.76 --> 2027.16]  Well, and maybe that's why, like, so Paul, as he's winding up, you begin to see kind of like,
+[2027.16 --> 2034.90]  sometimes in biblical criticism, they call them false endings, but you begin to see these places where, like, okay,
+[2035.00 --> 2040.22]  so this wraps up this conversation, and now let me get into some personal things, okay, amen,
+[2040.72 --> 2045.98]  and then now let me get into a few more, like, you know, secondary personal things, okay,
+[2046.16 --> 2049.00]  and then now here's my last word.
+[2049.00 --> 2054.44]  And that kind of happens at the end of chapter 15, where Paul kind of lives, like, gives this blessing.
+[2055.44 --> 2062.92]  And maybe that's a way to wrap up this whole thing, is that that idea that he blesses takes all of these ideas
+[2062.92 --> 2067.40]  and says, may this be true for you, right?
+[2067.42 --> 2072.16]  And so he says, may the God of hope fill you with all joy and peace as you trust in him,
+[2072.42 --> 2076.36]  so that you may overflow with hope by the power of the Holy Spirit.
+[2076.36 --> 2078.44]  And that's what I want.
+[2079.06 --> 2081.82]  That's what I think we are striving towards together.
+[2082.14 --> 2082.64]  I think you're right.
+[2082.84 --> 2090.42]  I think that is, like, the perfect bow to put on maybe this conversation and the last maybe three weeks worth of conversations
+[2090.42 --> 2097.70]  as we look ahead to what Romans, the second half of Romans 15, and what Josh is going to speak to us about on Sunday.
+[2097.90 --> 2103.18]  Is this my first sermon that is going to be mentioned in the podcast?
+[2103.18 --> 2103.92]  Oh, yes.
+[2104.18 --> 2104.58]  Beautiful.
+[2104.88 --> 2105.58]  Buckle up, Josh.
+[2106.00 --> 2106.20]  Yeah.
+[2106.36 --> 2108.04]  It changes everything.
+[2109.10 --> 2109.66]  Good.
+[2110.20 --> 2114.92]  Before we get there, though, gentlemen, what were some moments in mission for you this past week?
+[2115.94 --> 2118.64]  So the Young Adults had the Bible study.
+[2118.76 --> 2126.22]  We covered chapter three and four in Amos, though we actually covered everything that we've talked about,
+[2126.30 --> 2132.26]  because when you do prophetic literature, it's not like reading an epistle where you just go from moment to moment.
+[2132.26 --> 2135.54]  It's a whole image that's being presented throughout the book.
+[2135.60 --> 2139.86]  And so it requires, it necessitates review.
+[2139.86 --> 2148.66]  But more importantly, I was at House of James the other day, and I had a really great talk with this guy that was looking at Bibles,
+[2148.66 --> 2152.58]  and he was struggling with, like, taking faith more seriously.
+[2153.00 --> 2158.44]  And it was just, the Holy Spirit definitely spoke, and it was awesome.
+[2158.44 --> 2167.66]  And just sharing the beauty and the freedom that faith brings is awesome.
+[2168.12 --> 2168.26]  Yeah.
+[2168.62 --> 2171.06]  Well, I mean, to the point of this text, right?
+[2171.12 --> 2177.08]  Like, you were used by God to grow this person in their experience of faith.
+[2177.40 --> 2177.68]  Yeah.
+[2177.94 --> 2179.28]  Even if just for a moment.
+[2179.50 --> 2179.80]  Yeah.
+[2179.80 --> 2180.94]  And you might never see him again.
+[2181.26 --> 2181.52]  No.
+[2181.72 --> 2181.86]  Right.
+[2182.04 --> 2183.70]  But God is good, and he puts you there.
+[2184.00 --> 2184.32]  That's awesome.
+[2184.62 --> 2184.92]  And that conversation happened.
+[2185.12 --> 2185.30]  Yeah.
+[2185.34 --> 2185.84]  That's really cool.
+[2186.06 --> 2186.52]  That's very cool.
+[2186.64 --> 2187.38]  What about you there, Chris?
+[2188.26 --> 2194.32]  So I'm looking forward, looking forward to this coming Thursday, which is Ascension Day,
+[2194.82 --> 2199.88]  in the sort of liturgical calendar, the movement of the church year.
+[2199.88 --> 2208.84]  And so we are celebrating the ascension of Jesus and recognizing that with his ascension comes
+[2208.84 --> 2213.68]  sort of his kingship themes, and, you know, he's seated at the right hand of God the Father.
+[2214.16 --> 2220.18]  And so we celebrate ascension as a way of celebrating, like, the culmination of Christ's
+[2220.18 --> 2222.08]  work on earth because he has ascended.
+[2222.30 --> 2228.14]  And then because of his ascension, the Holy Spirit is then sent to us as believers.
+[2228.14 --> 2235.68]  And so this coming Thursday at 7 p.m., we'll have a worship service around those themes,
+[2235.72 --> 2237.26]  and we're doing that service a little bit differently.
+[2237.84 --> 2239.70]  I'm looking forward to see what that might look like.
+[2239.88 --> 2241.84]  And so, yeah, I think that'll be great.
+[2242.16 --> 2242.82]  I'm looking forward to it.
+[2243.06 --> 2243.52]  It should be fun.
+[2244.58 --> 2247.40]  We had Youth Coffee this past Sunday as well.
+[2247.98 --> 2253.52]  They're not new, but they're new-ish members of our church who hosted us, us youth and leaders
+[2253.52 --> 2254.08]  at their place.
+[2254.14 --> 2255.46]  They did just an awesome job hosting.
+[2255.46 --> 2260.30]  We had a great time in fellowship together and lots of good food, and there was a basketball
+[2260.30 --> 2265.30]  game on, and some Mario Kart played, and some ping pong played, and just a bunch of youth
+[2265.30 --> 2269.04]  and leaders were off into different corners of the house talking about life, and it was
+[2269.04 --> 2269.62]  just cool to see.
+[2270.18 --> 2275.86]  And on top of that, I wasn't there, but I heard from my daughters how awesome Gems Camp
+[2275.86 --> 2276.74]  was this weekend.
+[2276.88 --> 2277.08]  Yeah.
+[2277.08 --> 2282.82]  So the Gems, the grade three to seven girls took off to Timberline Ranch with some awesome
+[2282.82 --> 2289.26]  women of this church, some counselors, and they did a three-day, two-night camp out that
+[2289.26 --> 2289.44]  way.
+[2289.74 --> 2293.92]  And everything from horseback riding to delicious food to swimming to...
+[2294.78 --> 2295.38]  To archery.
+[2295.44 --> 2296.08]  To archery.
+[2296.08 --> 2297.46]  My daughter loved the archery.
+[2297.74 --> 2299.40]  She's like, I'm actually pretty good at it.
+[2299.54 --> 2300.04]  That's awesome.
+[2300.32 --> 2304.04]  And then they also took a look at Esther, and I just heard it was all very, very good.
+[2304.22 --> 2308.28]  Speaking of Greek words, the archery term to miss a mark is where sin comes from in the
+[2308.28 --> 2308.70]  New Testament.
+[2309.90 --> 2310.72]  Thank you, Josh.
+[2313.40 --> 2316.44]  Bonus points if you text Josh the Greek word for sin.
+[2318.02 --> 2318.86]  There's your challenge.
+[2319.16 --> 2321.20]  Josh, I hope Josh's phone lights up this week.
+[2321.30 --> 2322.12]  That would be awesome.
+[2322.12 --> 2327.04]  All 27 listeners are going to just send Josh their Greek guess.
+[2328.40 --> 2330.52]  Final thoughts, gentlemen, before we sign off today.
+[2331.96 --> 2339.12]  Oh, unity with Christ brings hope.
+[2339.38 --> 2340.58]  That was what we said before.
+[2341.32 --> 2341.48]  Yeah.
+[2341.48 --> 2342.34]  I like it.
+[2342.68 --> 2343.12]  Absolutely.
+[2344.30 --> 2348.08]  I think, again, we are all in this together.
+[2348.46 --> 2349.86]  We're all growing together.
+[2350.06 --> 2351.22]  We're all learning together.
+[2351.22 --> 2352.36]  We're all worshiping together.
+[2353.26 --> 2354.56]  And so let's keep doing it.
+[2355.70 --> 2356.14]  Amen.
+[2357.08 --> 2361.52]  And so as we step out of the narthex and into everyday life, we invite you to keep the conversations
+[2361.52 --> 2363.68]  about faith going with the people around you.
+[2364.30 --> 2366.12]  We thank you so much for joining us this week.
+[2366.12 --> 2372.22]  And on behalf of Chris and Josh, this is Kevin saying God bless and go in peace.
+[2372.78 --> 2373.76]  We'll see you Sunday.
+[2381.22 --> 2382.90]  Just want to leave the Precisian forum.
+[2382.90 --> 2384.68]  Just like you Sunday, you and I we'll be good.
+[2385.36 --> 2386.56]  Bye.
+[2402.98 --> 2403.14]  Sorry.
